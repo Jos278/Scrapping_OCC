@@ -16,20 +16,21 @@ function askQuestion(query) {
 
 const OCC_URL = 'https://www.occ.com.mx/';
 
-
-
-
-
-
 export async function scrapeOCC(searchTerm) {
-  const browser = await puppeteer.launch({
-    headless: 'new', // o true si tienes Puppeteer < 20
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-blink-features=AutomationControlled'
-    ]
-  });
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--no-first-run',
+            '--no-zygote',
+            '--single-process',
+            '--disable-gpu'
+        ]
+    });
+
 
   const page = await browser.newPage();
 
