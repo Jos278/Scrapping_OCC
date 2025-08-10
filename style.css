@@ -1,0 +1,84 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+     background: linear-gradient(-45deg, #FF894F, #0F828C, #98ABEE, #EA5B6F);
+    background-size: 400% 400%;
+    animation: backgroundBlur 20s ease infinite;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background-color: white;
+  width: 280px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+h2 {
+  margin: 10px 0 5px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #222;
+  text-transform: capitalize;
+}
+
+.role {
+  color: #888;
+  margin-bottom: 15px;
+}
+
+.card p {
+  margin: 5px 0;
+  color: #444;
+  font-size: 14px;
+}
+
+.card i {
+  margin-right: 8px;
+  color: #555;
+}
+
+.social-icons {
+  margin-top: 15px;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  font-size: 20px;
+  color: #0a66c2;
+  text-decoration: none;
+}
+
+.social-icons a:nth-child(2) {
+  color: #333;
+}

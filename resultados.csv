@@ -1,1042 +1,2071 @@
 "nombreVacante","empresa","ubicacion","sueldo","verificada","categoria","subcategoria","educacionMinima","contratacion","horario","espacioDeTrabajo","descripcion"
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","Puebla,, Pue.","$15,000 - $20,000 Mensual",true,"Ventas","Ventas corporativas","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
+"Desarrolladores FullStack Desktop Senior .Net","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Desarrollo de software - Programador","Diplomado","Tiempo completo","Jornada completa","Remoto","Requerimientos
+
+Educación mínima: Diplomado
+
+Experiencia
+
+Mínima de 5 años.
+
+Perfil Desarrollador Fullstack Desktop (.NET)
+
+Lenguajes de
+
+Programación - C# - VB NET - SQL
+
+Base de Datos (BD) - MS SQL Server - Opcional: Conocimientos en otras SGBDs (SQlite, MySql, otros) - Optimización de consultas (indices, hints, execution plan, etc)
+
+Herramientas - Visual Studio (avanzado) - Reporting Services (mínimo intermedio) - Visual Studio (avanzado) - PostMan (para pruebas de API) - TFS/DEVOPS (para CI/CD y gestión de código)
+
+Arquitectura & Diseño - WebServices (SOAP, REST) - Arquitectura de software (3 capas, DDD, CQRS, ONION, etc)
+
+Habilidades Blandas - Comunicación efectiva - Trabajo en equipo - Resolución de problemas
+
+Conocimientos Avanzados - Unity container - Conocimientos de buenas prácticas de desarrollo y patrones de diseño
+
+(principios SOLID, CLEAN CODE, etc) - Conocimiento intermedio / avanzado en troubleshooting en Visual Studio. - Conocimiento en controles Syncfusion e Infragistics - Conocimiento de pruebas unitaria"
+"desarrollador fullstack   web senior .net","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Desarrollo de software - Programador","Diplomado","Tiempo completo","Jornada completa","Remoto","Requerimientos
+
+Educación mínima: Diplomado
+
+Experiencia
+
+Mínima de 5 años.
+
+Perfil Desarrollador Fullstack Web (.NET)
+
+Lenguajes de
+
+Programación
+
+- C#
+
+- VB NET
+
+- SQL
+
+- JAVASCRIPT
+
+Base de Datos (BD) - MS SQL Server
+
+- Opcional: Conocimientos en otras SGBDs (SQlite, MySql, otros)
+
+- Optimización de consultas (indices, hints, execution plan, etc)
+
+Herramientas - Visual Studio (avanzado)
+
+- Reporting Services (mínimo intermedio)
+
+- Visual Studio (avanzado)
+
+- PostMan (para pruebas de API)
+
+- TFS/DEVOPS (para CI/CD y gestión de código)
+
+- Web Design herramientas (ejemplo: Figma, Sketch)
+
+Arquitectura & Diseño - WebServices (SOAP, REST)
+
+- Arquitectura de software (3 capas, DDD, CQRS, ONION, etc)
+
+Habilidades Blandas - Comunicación efectiva
+
+- Trabajo en equipo
+
+- Resolución de problemas
+
+Conocimientos Avanzados - Unity container
+
+- Blazor Server y Blazor Web Assembly
+
+- Inyección de código, variables de sesión y parámetros
+
+- Bindings
+
+- Diseño de aplicaciones web (estilos, configuraciones, resources)
+
+- Conocimiento avanzado en HTML y CSS
+
+- Conocimiento de gRPC
+
+- Conocimiento en controles Syncfusion
+
+- Conocimiento de pruebas unitarias"
+"Data Solutions Architect","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Arquitecto de soluciones","Técnico titulado","Tiempo completo","Jornada completa","Presencial","Requerimientos
+
+Educación mínima: Técnico titulado
+
+Formación Académica y Certificaciones
 
 
 
 
-Buscamos: Especialistas en Afore
+Ingeniería o Licenciatura en Sistemas, Ciencias Computacionales, Ciencia de Datos, Tecnologías de la Información o afines.
+Deseable Maestría en Big Data, Arquitectura de Soluciones, Ciencia de Datos o Transformación Digital.
+Certificaciones valoradas:
+Azure Solutions Architect Expert, Azure Data Engineer Associate.
+Databricks Certified Data Engineer / Architect.
+Certificaciones en metodologías ágiles (Scrum, SAFe).
+TOGAF u otros marcos de arquitectura empresarial.
+Certificaciones en gobierno de datos y privacidad (CDMP, DCAM, GDPR).
 
- 
+Idiomas
 
-Requisitos:
+Inglés avanzado: lectura, redacción y conversación técnica fluida.
 
--         Escolaridad mínima Bachillerato concluido (con certificado)
 
--         Experiencia en ventas / Afore
+
+
+Experiencia Profesional
+
+
+
+
++8 años de experiencia en arquitectura de soluciones de datos e implementación en entornos cloud.
++4 años diseñando e implementando soluciones sobre plataformas de datos en la nube (especialmente Azure).
+Experiencia en liderar equipos técnicos multidisciplinarios y colaborativos.
+Diseño e implementación de arquitecturas Data Lakehouse y Data Mesh utilizando Azure Data Lake Gen2, Databricks, Delta Lake y Synapse Analytics.
+Integración de datos vía APIs RESTful, eventos, y pipelines orquestados con Azure Data Factory, Synapse Pipelines o similares.
+Experiencia con bases de datos relacionales (SQL Server, PostgreSQL) y distribuidas (Cosmos DB, MongoDB).
+Sólido manejo de procesamiento distribuido con Spark, Databricks y herramientas afines.
+Proyectos de modernización tecnológica y migración de plataformas a la nube.
+Amplia experiencia en seguridad, cumplimiento, trazabilidad y gobierno de datos (RBAC, Purview, encriptación, metadata, linaje).
+
+
+
+
+Responsabilidades Clave
+
+
+
+
+Diseñar y liderar arquitecturas de datos cloud-native alineadas a objetivos estratégicos de negocio.
+Definir e implementar soluciones basadas en arquitecturas desacopladas, orientadas a eventos y productos de datos.
+Diseñar e implementar pipelines ETL/ELT robustos y escalables.
+Asegurar prácticas avanzadas de seguridad, cumplimiento y gobierno en todas las capas de la solución.
+Colaborar activamente con stakeholders del negocio para convertir requerimientos en soluciones técnicas sostenibles.
+Liderar revisiones arquitectónicas, documentación, adopción de estándares y mejora continua.
+Promover la adopción de nuevas tecnologías y liderar procesos de innovación.
+Asegurar calidad, trazabilidad, monitoreo y automatización (CI/CD) en entornos de datos.
+
+
+
+
+Tecnologías y Herramientas
+
+
+
+
+Arquitecturas: Data Lakehouse, Data Mesh, Event-driven, Microservicios, Serverless.
+Cloud & Almacenamiento: Azure Data Lake Gen2, Azure Synapse, Blob Storage, Cosmos DB.
+Procesamiento de Datos: Databricks (PySpark, SQL), Apache Spark, Delta Lake.
+APIs y Exposición de Datos: FastAPI, OpenAPI, OAuth2, Azure API Management.
+ETL/ELT y Orquestación: Azure Data Factory, Synapse Pipelines, Databricks Workflows, Apache Airflow.
+Gobierno de Datos: Unity Catalog, Azure Purview, RBAC, Lineage, Metadata management.
+DevOps / Infraestructura como Código: Terraform, Bicep, Azure DevOps, GitHub Actions, Docker.
+Observabilidad y Monitoreo: herramientas para trazabilidad, métricas y alertas en entornos de datos.
+Lenguajes y Configuración: Python, SQL, JSON, YAML.
+
+
+
+
+Competencias Clave
+
+Visión Estratégica: Capacidad para diseñar soluciones de datos alineadas al negocio.
+Pensamiento Sistémico: Enfoque holístico para arquitecturas sostenibles, modulares y reutilizables.
+Liderazgo Técnico: Mentoría, toma de decisiones técnicas, colaboración con equipos de ingeniería y ciencia de datos.
+Comunicación Interfuncional: Traducción efectiva entre requerimientos técnicos y de negocio.
+Gestión de Complejidad: Capacidad para estructurar soluciones en entornos de alta diversidad de fuentes y necesidades.
+Innovación Continua: Curiosidad tecnológica y actualización constante en tecnologías emergentes.
+Cultura de Plataforma y Producto: Foco en experiencia del consumidor de datos y diseño orientado a dominios.
+
+
+
+
+Se valorará de forma especial:
+
+
+
+
+Apasionado de la tecnología. Completamente al día de las últimas tendencias de la industria.
+Habituado a trabajar por objetivos. Acostumbrado a trabajar bajo presión en entornos altamente exigentes.
+Buen comunicador, sabrá transmitir ilusión al entorno de trabajo.
+Comprometido. Capacidad de análisis y solución de problemas.
+Buenas habilidades de negociación.
+Capaz de generar empatía tanto con los empleados y clientes.
+Capaz de adaptarse a la cultura de trabajo de una pyme. Sin grandes jerarquías. Compatibilizando la capacidad de trabajar con autonomía con un fuerte espíritu de colaboración y, sobre todo, de trabajo en equipo.
+Interesado en desarrollar su carrera profesional en entornos altamente competitivos y con alto potencial de crecimiento.
+
+
+
+
+Perfil del candidato/a ideal:
+
+
+
+
+Eres un apasionado/a de la tecnología y estás siempre al día con las últimas tendencias de la industria.
+Estás acostumbrado/a a trabajar por objetivos y en entornos altamente exigentes.
+Tienes habilidades excepcionales de comunicación y sabes transmitir entusiasmo en el trabajo.
+Eres una persona comprometida, con fuertes habilidades de análisis y resolución de problemas, así como habilidades de negociación.
+Puedes establecer una conexión empática tanto con los compañeros de trabajo como con los clientes.
+Te adaptas fácilmente a la cultura de trabajo de una empresa donde no hay grandes jerarquías y se valora la autonomía, la colaboración y el trabajo en equipo.
+Estás interesado/a en desarrollar tu carrera en un entorno altamente competitivo con un gran potencial de crecimiento.
+
+
+
+
+En Bluetab, te ofrecemos:
+
+
+
+
+Contrato indefinido, posterior al periodo de prueba, con un salario competitivo, basado en tus habilidades técnicas y el rol asignado, con posibilidad de ajustes conforme a tus evaluaciones de desempeño.
+Formación continua.
+Plan de carrera individualizado en áreas técnica, funcional o de gestión (¡Tú decides, pero siempre continuamos formándonos!).
+Beneficios sociales que van más allá del salario, como un fondo de ahorro, seguros médicos para ti y tu familia, vales de despensa, vacaciones superiores a las establecidas por ley y más.
+
+
+
+
+¿Qué estás esperando para unirte a Bluetab, an IBM Company? ¡Queremos saber de ti pronto!
+
+
+
+
+En /b promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.
+
+""Bluetab"" es una empresa del grupo IBM. Bluetab será la entidad contratante. Al proceder con esta solicitud, usted entiende que Bluetab compartirá su información personal con otras filiales de IBM involucradas en su proceso de reclutamiento, selección y contratación, donde quiera que éstas se encuentren."
+"Desarrollador Unity","La empresa es confidencial o no se encuentra disponible","","$ 20,000 - $ 25,000 Mensual",true,"Tecnologías de la Información - Sistemas","Desarrollo web","Diplomado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Diplomado
+
+Empresa importante en giro de la Tecnología solicita:
+
+
+
+
+Desarrollador Unity
+
+
+
+
+Objetivo del puesto:
+
+El Desarrollador Unity será responsable del diseño, implementación, optimización y mantenimiento de sistemas dentro de entornos de Unity, específicamente en la creación de soluciones para aplicaciones y sistemas interactivos.
+
+
+
+
+Requisitos
+
+Escolaridad: Ingeniería en Sistemas, ciencias de la computación o campos a fines.
+Facilidad de traslado a zona: Loma linda, Culiacán. Sinaloa
+
+
+
+
+Experiencia (deseable)
+
+Experiencia en el desarrollo de sistemas dentro de Unity
+Experiencia en desarrollo de aplicaciones interactivas, juegos o sistemas web
+Experiencia en Unity web GL
+
+
+
+
+Actividades
+
+Diseñar, implementar y mantener sistemas escalables y eficientes dentro de unity
+Proponer nuevas tecnologías, metodologías y procesos que mejoren la calidad del desarrollo.
+Optimizar el rendimiento de los sistemas asegurando la mayor eficiencia en cuanto a recursos.
+
+
+
+
+Habilidades/ Aptitudes
+
+Analítico
+Proactivo y buena actitud.
+Trabajo en equipo
+Comunicación asertiva
+Capacidad para trabajar bajo presión
+
+
+
+
+Conocimientos (Deseables)
+
+
+
+
+Dominio avanzado de Unity3D, C# y el uso de sus herramientas y bibliotecas.
+Conocimiento profundo de la arquitectura de software y patrones de diseño aplicados a juegos y sistemas.
+Conocimiento en el manejo de API RESTful
+
+
+
+
+Ofrecemos
+
+Contrato directo con la empresa
+Prestaciones superiores a la ley
+Horario L-V de 8:30 am a 6:30 pm
+Oportunidad de crecimiento y capacitación constante
+
+
+
+
+¡Forma parte de este gran equipo de trabajo!"
+"Asesor inmobiliario","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",false,"Ventas","Ventas en general","Técnico titulado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Técnico titulado
+
+Lugar de trabajo: Querétaro, Qro.
+
+Tipo de puesto: Comisión 100% (sin sueldo base)
+
+Área: Comercial / Ventas inmobiliarias
+
+
+
+
+
+
+
+¿Tienes experiencia cerrando operaciones de venta o renta de locales comerciales?
+
+¿Eres autónomo, te mantienes firme ante la presión y tienes enfoque claro a resultados?
+
+En Unity Group buscamos asesores con perfil de cierre, visión estratégica y estabilidad emocional para integrarse a un equipo de alto desempeño comercial.
+
+
+
+
+
+
+
+Lo que buscamos en ti:
+
+Experiencia mínima de 2 años en ventas inmobiliarias (deseable en locales comerciales, arrendamientos o inversión)
+Capacidad comprobable para cerrar operaciones y manejar objeciones
+Excelente presentación, comunicación asertiva y trato profesional con inversionistas
+Estabilidad emocional, enfoque positivo, tolerancia a la frustración
+Disponibilidad de tiempo para cubrir guardias semanales en punto de venta.
+Contar con herramientas propias (auto, celular, laptop)
+
+
+
+
+Actividades:
+
+Promoción de locales en plazas comerciales (venta y renta)
+Atención a leads calificados y prospección
+Coordinación de visitas y cierres
+Seguimiento comercial vía CRM
+Acompañamiento al cliente hasta la firma de contrato
 
 
 
 
 Ofrecemos:
 
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR COMERCIAL: FINANCIERO Y DE SEGUROS","Seguros Inbursa, S.A G...","Pachuca de Soto,, Hgo.","Sueldo no mostrado por la empresa",true,"Ventas","Ventas de campo","Bachillerato","Temporal","Tiempo completo","Híbrido","Impulsa tu carrera en el sector financiero con una empresa líder en México.
+Esquema 100% comisionista (sin tope de ingresos)
+Comisiones desde el 2% al 4% por operación
+Desarrollo activo para venta de locales comerciales en la zona de Zakia.
+Soporte legal y comercial
+Ambiente profesional, enfocado en resultados reales
 
 
 
 
-?
+Deseable:
 
-En Grupo Financiero Inbursa, nos dedicamos a ofrecer soluciones financieras integrales que protegen y fortalecen el futuro económico de nuestros clientes. Si tienes pasión por las ventas, el servicio al cliente y quieres formar parte de un equipo dinámico, ¡te estamos buscando!
-
-
-
-
-¿Qué harás en este puesto?
+Conocimiento de contratos de arrendamiento, compraventa y aspectos legales del sector inmobiliario
+Certificaciones en comercialización de bienes inmuebles o cursos en ventas, PNL, neuroventas o similares
+Manejo de CRM y plataformas inmobiliarias.
 
 
 
 
-Como Asesor(a) Financiero(a) serás responsable de:
+¿Te apasiona vender, sabes cerrar y estás listo para un siguiente nivel en tu carrera comercial?
 
-· Brindar asesoría personalizada sobre seguros, productos bancarios y soluciones financieras.
+Postúlate hoy mismo.
 
-· Promover nuestros servicios, destacando los beneficios que ofrecen a cada cliente según su perfil.
+Sólo se tomarán en cuenta perfiles con experiencia y enfoque claro a cierre."
+"Docente de Diseño Industrial","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Ingeniería","Diseñador industrial","Diplomado","Medio tiempo","Tiempo parcial","","Requerimientos
 
-· Prospectar y dar seguimiento a una cartera de clientes, construyendo relaciones de confianza a largo plazo.
+Educación mínima: Diplomado
 
-· Cumplir metas comerciales y contribuir al crecimiento del equipo.
+La Universidad Tecnológica de México es una institución reconocida por su excelencia académica y su compromiso con la formación integral de sus estudiantes. En un entorno dinámico y colaborativo, priorizamos el crecimiento profesional y personal de nuestros colaboradores, brindando oportunidades únicas para el desarrollo académico y profesional.
 
-· Desarrollar habilidades de liderazgo y gestión comercial dentro del sector financiero.
-
-
-
+Ubicación: Atizapán de Zaragoza, Estado de México.
 
 
 
 
-¿Qué buscamos en ti?
+Estamos buscando docentes apasionados y experimentados en Diseño Industrial, para impartir las materias a nivel licenciatura en la carrera de diseño industril.
+Requisito indispensable, contrar con título y cédula.
 
 
 
 
-· Experiencia previa en ventas (preferentemente en sector financiero y seguros)
+Materia:
 
-· Gusto por las ventas e ingresos como comisionista.
+DISEÑO DE OBJETOS ESPECIALIZADOS
 
-· Excelente actitud, enfoque en resultados y capacidad para generar confianza con los clientes.
+Horario: de lunes a viernes matutino
 
-· Escolaridad mínima: Bachillerato concluido (comprobable).
-
-· Proactividad, comunicación efectiva y mentalidad emprendedora.
-
-· Edad mínima: 23 años.
-
-· Deseable: conocimientos básicos en banca, seguros y productos financieros.
+Conocimientos en: Metodologia de diseños digitales especializados, Necesidades especializadas
 
 
 
+
+Materia:
+
+BOCETAJE
+
+Horario: lunes y jueves de 9:00 am a 11:00 am
+
+Conocimientos en: Dibujo y Técnicas, Sensibilidad Ergonómica, Diseño Sensitivo Contexto del Diseño
+
+
+
+
+Pr?estaciones y beneficios adicionales
+
+
+
+
+· Descuentos empresariales.
+
+· Horarios flexibles que se adaptan a tu calidad de vida.
+
+· Plan de desarrollo que te permitirá construir una trayectoria docente.
+
+· Capacitación docente continua, para que puedas mejorar la efectividad de tu enseñanza dentro de la clase.
+
+· Como docente UNITEC puedes obtener beca para ti, tus hijos/as y también para tu cónyuge. *aplican condiciones.
+
+· Pago de utilidades.
+
+· Prestaciones de ley (seguridad social, aguinaldo, vacaciones, etc.)
+
+· Pagos quincenales.
+
+· Contratación por nómina. SCOTIABANK
+
+· Pago por hora laborada
+
+
+
+
+*En este centro de trabajo queda prohibida la solicitud de certificados médicos de no embarazo y de VIH como requisito para el ingreso, permanencia o ascenso en el empleo*
+
+
+
+
+¡Construye una trayectoria docente con nosotros!
+
+¡Postúlate!"
+"Desarrollador de videojuegos - Docente","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Educación","Maestro - Docente - Profesor","Estudios Universitarios - no titulado","Medio tiempo","Tiempo parcial","","Requerimientos
+
+Educación mínima: Estudios Universitarios - no titulado
+
+UVM, la universidad privada más grande de México, está buscando tu talento.
+
+Esta es tu oportunidad de hacer la diferencia siendo parte de una cultura de diversidad y colaboración. Buscamos talento para ser docente en Desarrollador de Videojuegos (Unity, Unreal Engine).
+
+
+
+
+Zona de trabajo: Campus San Rafael
+
+
+
+
+¿Qué escolaridad necesitas para aplicar a esta vacante?
+
+-Maestría en Ingeniería en Tecnología Interactiva y Animación Digital; Animación Digital; Diseño y Animación Digital; Diseño Gráfico.
+
+
+
+
+Certificaciones deseables:
+
+Se valorará contar con certificaciones en alguna de las siguientes herramientas:
+
+Unreal Engine
+Unity
+Blender
+
+
+
+
+Horario:
+
+Disponibilidad de horario entre semana de 4:00 p.m. a 10:00 p.m.
+
+
+
+
+¿Qué experiencia esperamos de ti?
+
+·Experiencia como docente INDISPENSABLE
+
+·Experiencia en el desarrollo de videojuegos, desde la planeación hasta la implementación, incluyendo:
+
+Creación de videojuegos y su flujo de producción
+Principios de diseño, jugabilidad y mecánicas de juego
+Uso de motores de videojuegos y diseño de niveles
+Clasificación de entidades estáticas y dinámicas
+Asignación de propiedades, detección de colisiones y manejo de escenas
+Aplicación de física e inteligencia artificial básica
+Manejo de memoria y uso de medios externos como música y video
+Diseño de retroalimentación visual y sonora (game feedback)
+
+
+
+
+¿Qué funciones vas a desempeñar con nosotros?
+
+·Acompañamiento académico integral
+
+·Gestión profesional del proceso enseñanza-aprendizaje
+
+·Diseño y seguimiento de planes personalizados de estudio
+
+·Orientación al estudiante mediante técnicas de estudio
 
 
 
 
 ¿Qué te ofrecemos?
 
+·$ Sueldo Competitivo
 
+·Prestaciones de Ley
 
-
-· Ingresos sin tope: Comisiones atractivas, bonos trimestrales y premios por desempeño.
-
-· Capacitación constante en productos, ventas y estrategias comerciales.
-
-· Oportunidades reales de crecimiento profesional y económico.
-
-· Viajes nacionales e internacionales (según cumplimiento de metas).
-
-· Cartera de clientes, ambiente de trabajo dinámico y flexible.
-
-· Prestaciones mínimas de ley: IMSS e INFONAVIT.
+·Excelente Ambiente
 
 
 
 
-¿Te interesa?
+¿Qué competencias buscamos en ti?
+
+·Creatividad
+
+·Orientación de servicio
+
+·Pasión por la enseñanza
+
+·Empatía
 
 
 
 
-Envía tu CV actualizado con fotografía al correo indicado ó llama al número de contacto para agendar entrevista.
+La compañía ofrece un excelente clima laboral en donde estamos tan enfocados en el bienestar de nuestros colaboradores como en el de nuestros estudiantes.
+
+En este centro de trabajo queda prohibida la solicitud de certificados médicos de no embarazo y de VIH como requisito para el ingreso, permanencia o ascenso en el empleo."
+"Asesor de arrendamiento","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",false,"Ventas","Asesoría comercial","Técnico titulado","Tiempo completo","Jornada completa","Remoto","Requerimientos
+
+Educación mínima: Técnico titulado
+
+En Unity Group estamos en búsqueda de un(a) Asesor(a) de Rentas Comerciales con experiencia, excelente actitud, facilidad de palabra y habilidades de negociación. Serás responsable de promover, negociar y cerrar arrendamientos de espacios dentro de nuestra plaza comercial ubicada en una de las zonas de gran crecimiento en la ciudad: Zakia.
 
 
 
 
-Dirigirse con C. Froylán Balderas / Margarita Sánchez. Todas las entrevistas son presenciales.
+
+
+
+REQUISITOS
+
+Experiencia mínima de 1 año en: renta de espacios comerciales, retail o inmobiliario corporativo.
+Prospección directa a marcas, áreas de expansión y tomadores de decisión.
+Negociación de condiciones comerciales y seguimiento de leads.
+Conocimiento medio en contratos de arrendamiento comercial.
+Habilidad para comunicarse con claridad, empatía y profesionalismo.
+Excelente presentación.
+Alto nivel de compromiso, autogestión y seguimiento puntual.
+Capacidad de trabajar bajo presión manteniendo la neutralidad y el enfoque.
+Disponibilidad de tiempo para realizar recorridos con clientes potenciales a la plaza ubicada en Zakia-Zizana
+
+PRINCIPALES FUNCIONES
+
+Prospección y contacto directo con marcas locales y nacionales.
+Presentación de espacios disponibles para renta en plazas comerciales.
+Atención a leads asignados por la empresa.
+Seguimiento efectivo a leads desde el primer contacto hasta el cierre.
+Negociación de términos y condiciones de arrendamiento.
+Coordinación con área legal y administrativa para cierre de contratos.
+Visitas a inmuebles y atención personalizada a clientes.
+
+OFRECEMOS
+
+Esquema de comisiones por contrato de arrendamiento efectivamente cerrado.
+Trabajo remoto: trabaja desde dónde quieras
+Excelente ambiente de trabajo.
+Leads de la empresa para sumar a tu prospección.
+Oportunidad de desarrollo en empresa en expansión.
+Trabajo dinámico y retador.
+
+
+
+?? ¿Listo(a) para llevar marcas al lugar correcto y crecer con nosotros?
+
+Postúlate por este medio."
+"Reliabilty Engineer","La empresa es confidencial o no se encuentra disponible","","$ 55,000 - $ 70,000 Mensual",true,"Ingeniería","Ingeniero","Diplomado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Diplomado
+
+Solvay is all about chemistry. We're not just referring to chemical reactions here, but also to the magic that occurs when the brightest minds get to work together. This is where our true strength lies. In you. In your future colleagues and in all your differences. And of course, in your ideas to improve lives while preserving our planet's beauty for the generations to come.
+
+Important note: We offer relocation support to Ciudad Juárez. For more information on our benefits and salary, please refer to the footer of this job description.
+
+About The Role
+
+Our Maintenance team, composed of 22 people, is integrated in the Ciudad Juárez Maintenance department and focuses on providing up-to-standard maintenance to production and associated activities in order to assure the long-term sustainability (availability and reliability of the installation) and efficiency (capacity of utilization, quality and cost of the product) of the process in collaboration with Production team.
+As a Reliability Engineer, you will work on developing a formalized reliability program to ensure plant equipment is operating with a high degree of reliability to meet production, quality, and cost goals to support our company's success. You will get the opportunity to contribute to achieving equipment availability goals by analyzing equipment data and implementing measures to eliminate failures and have a positive impact on our process and people.
+
+
+
+You will be accountable for:
+
+Drive reliability by identifying, scoping, and executing selected projects and studies, including engineering activities from inception to mechanical completion and project commissioning and maximizing plant OEE.
+Develop, maintain, and coordinate management of the Preventive Maintenance and Predictive Maintenance program, including inspection procedures, frequencies, employee training, quality control, deficiency mitigation, auditing, and record management.
+Maintain the Mechanical Integrity (MI) program and documentation to ensure compliance with Solvay and regulatory standards.
+Analyze and propose solutions to “Bad Actors” for repeat failures, cost, etc.
+Work closely with Production, Safety, and Quality personnel to provide technical support and as needed in daily equipment troubleshooting.
+We offer a permanent contract (with a 3 month probation period) based on fixed shift and onsite working mode.
+
+
+
+About You
+
+Relevant education degree or equivalent in Bachelor's degree in industrial, electrical or mechanical engineering.
+Relevant work experience in more than 5 years in chemical industry, Mechanical and electrical knowledge of chemical operation equipment, and Root Cause Analysis methods.
+
+
+
+Competencies:
+
+Project management
+Leadership and communication skills
+English B2
+
+
+
+Behaviors:
+
+Prioritize based on impact and value creation
+Agility and transparency
+Make it happen
+
+
+
+About The Pay And Benefits
+
+Attractive and equitable pay for all: compensation is determined within a range to foster your development in the role. While the México base pay reasonably expected for this role expected for this role goes from $55,000 to $70,000 MXN pesos, your salary may ultimately be higher based on your skills and experience. Additionally, we provide a competitive total rewards package that includes a bonus and/or other incentives.
+Solvay Cares program: minimum of 16 weeks of parenting leave for all employees and package with healthcare, disability and life insurance coverage.
+Prioritization of well-being: Solvay Solidarity Fund to support employees through hardship, work-life balance promotion, flexible approach to work part-time or hybrid work arrangements (depending on the type of job), employee assistance program with access to physical and psychological support.
+Professional development: prioritization of internal talents for career progression, access to a training platform, opportunities to join Employee Resource Groups (ERG) for experience sharing and mentorship and free language courses in 24 languages.
+
+
+
+About Us
+
+While we have identified potential internal profiles for this role, we are committed to a fair and inclusive selection process. In order to comprehensively evaluate all qualified internal people, we are actively encouraging applications for this position.
+Solvay, a pioneering chemical company with a legacy rooted in founder Ernest Solvay's pivotal innovations in the soda ash process, is dedicated to delivering essential solutions globally through its workforce of over 9,000 employees. Since 1863, Solvay harnesses the power of chemistry to create innovative, sustainable solutions that answer the world's most essential needs such as purifying the air we breathe and the water we drink, preserving our food supplies, protecting our health and well-being, creating eco-friendly clothing, making the tires of our cars more sustainable and cleaning and protecting our homes. As a world-leading company with €4.9 billion in net sales in 2023 and listings on Euronext Brussels and Paris (SOLB), its unwavering commitment drives the transition to a carbon-neutral future by 2050, underscoring its dedication to sustainability and a fair and just transition.
+At Solvay, we seek to promote unity and not uniformity. We value the diversity that individuals bring and we invite you to consider a future with us, regardless of background, age, gender, national origin, ethnicity, religion, sexual orientation, ability or identity. We encourage individuals who may require any assistance or accommodations to let us know to ensure a seamless application experience. We are here to support you throughout the application journey and want to ensure all candidates are treated equally. If you are unsure whether you meet all the criteria or qualifications listed in the job description, we still encourage you to apply."
+"Databricks Developer","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Procesamiento de datos","Estudios universitarios sin terminar","Tiempo completo","Jornada completa","Presencial","Requerimientos
+
+Educación mínima: Estudios universitarios sin terminar
+
+We're hiring!
+
+At Cognizant we have an ideal opportunity for you to be part of one of the largest companies in the digital sector worldwide. A Great Place To Work where we look for people who contribute new ideas, experiencing a dynamic and growing environment. At Cognizant we promote an inclusive culture, where we value different perspectives providing career growth and development opportunities. #WelcomeToCognizant!
+
+We have an exciting opportunity for an exceptional individual to work supporting one of our client
 
 
 
 
-Prepárate para iniciar una carrera profesional en una de las instituciones financieras más reconocidas de México.
+Responsibilities
 
-“Ayudar a las personas a asegurar su futuro financiero también asegura el tuyo. ¡Súmate a Grupo Financiero Inbursa y alcanza tu potencial sin límites!”
+Develop and optimize data workflows using Spark in Scala to ensure efficient data processing and analysis.
+Implement and manage Databricks Unity Catalog Admin to maintain data governance and security.
+Utilize Apache Airflow to orchestrate complex data pipelines and automate workflows.
+Integrate and manage data storage solutions using Amazon S3 and Amazon Redshift for scalable data management.
+Collaborate with cross-functional teams to design and implement data solutions that meet business requirements.
+Write and maintain Python scripts to automate data processing tasks and enhance system functionality.
+Leverage Databricks SQL to perform complex queries and data transformations for insightful analytics.
+Implement Databricks Delta Lake to ensure data reliability and consistency across various platforms.
+Design and execute Databricks Workflows to streamline data operations and improve efficiency.
+Utilize PySpark to process large datasets and extract meaningful insights for decision-making.
+Ensure data quality and integrity through rigorous testing and validation processes.
+Provide technical support and guidance to team members to foster a collaborative work environment.
+Contribute to the continuous improvement of data processes and methodologies to enhance overall performance.
+
+Qualifications
+
+Possess strong expertise in Spark in Scala and Databricks Unity Catalog Admin.
+Demonstrate proficiency in Apache Airflow and Amazon S3 for data orchestration and storage.
+Have experience with Amazon Redshift and Python for data management and automation.
+Show capability in using Databricks SQL and Delta Lake for data analysis and reliability.
+Exhibit skills in designing Databricks Workflows and utilizing PySpark for data processing
 
 
 
 
-?"
-"ASESOR AFORE-Sueldo/Prestaciones Superiores/Comisiones sin tope","Principal Financial","CDMX","$15,000 - $20,000 Mensual",true,"Ventas","Ventas corporativas","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
+Why Cognizant?
+
+Improve your career in one of the largest and fastest growing IT services providers worldwide
+
+Receive ongoing support and funding with training and development plans
+
+Have a highly competitive benefits and salary package
+
+Get the opportunity to work for leading global companies
+
+We are committed to respecting human rights and build a better future by helping your minds and the environment
+
+We invest in people and their wellbeing.
+
+We create conditions for everyone to thrive. We do not discriminate based on race, religion, color, sex, age, disability, nationality, sexual orientation, gender identity or expression, or for any other reason covered.
+
+At Cognizant we believe than our culture make us stronger!
+
+Join us now!
+
+#BeCognizant #IntuitionEngineered
 
 
 
 
-Buscamos: Especialistas en Afore
+Igualdad de Empleo y Política de Acción Afirmativa:
 
- 
+Cognizant es un empleador que ofrece igualdad de oportunidades. Todos los solicitantes calificados recibirán consideración para el empleo sin distinción de sexo, identidad de género, orientación sexual, raza, color, religión, origen nacional, discapacidad, estado de veterano protegido, edad o cualquier otra característica protegida por la ley."
+"Site Reliability Engineer (DevOps Engineer)","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Ingeniería","Robótica- Mecatrónica - Nanotecnología","Técnico titulado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Técnico titulado
+
+Site Reliability Engineer (DevOps Engineer)
+
+
+
+
+ABOUT THE ROLE
+
+This is an exciting opportunity to work with R&D teams designing & building software-defined automation solutions for modern factories. Our integrated solution consists of both on-prem infrastructure like full network stack (with switches, routers, firewalling) and Cloud-native software applications running on-prem and in the Cloud to operate and monitor the robotic assembly lines.
+
+DevOps Engineer designs, builds & manages scalable & secure infrastructure, CI/CD pipelines and tools to enable fast-paced development of mission-critical & complex industrial automation applications.
+
+You will work directly with R&D, Software Engineering, and IT teams to build and deploy reliable infrastructure, CI/CD pipelines, and tooling. Our software is designed to be cloud native with the ability to deploy both on-cloud and on-prem infrastructure. Your expertise will be pivotal in developing and operating our stack, which includes:
+
+• AWS and Azure as Cloud providers
+
+• Kubernetes
+
+• GitLab CI/CD and GitOps practices
+
+• On-prem hardware (bare metal hypervisors, network equipment)
+
+
+
+
+WHAT YOU WILL BE DOING
+
+• Implement and manage scalable, reliable, and secure infrastructure for running applications and automation systems.
+
+• Automate infrastructure provisioning, configuration management and deployment processes using tools like Ansible, and Kubernetes.
+
+• Develop and maintain CI/CD pipelines to ensure efficient and continuou.
+
+
+
+
+WHAT WE WANT TO SEE
+
+• B.S. or M.S. degree (or equivalent) in Computer Science, Engineering, Mathematics, or a related field
+
+• 2+ years of experience in DevOps role.
+
+• Proficiency in a variety of modern programming languages (Python, Javascript, C#, Go, etc)
+
+• Networking experience
+
+• Experience with CI/CD tools and GitOps methodologies.
+
+• Experienced writing code in Shell
+
+• Expertise in public cloud platforms such as AWS, Azure or Google Cloud.
+
+• Experience with configuration management tools (Ansible)
+
+• Proficiency in Docker, Kubernetes & containerization tools.
+
+• Experience with observability tools (Prometheus/Grafana).
+
+
+
+
+WHAT WE WOULD LIKE TO SEE
+
+• Experience with on-prem hardware provisioning
+
+• Experience with MLOps and DevSecOps
+
+• Experience supporting a developer base on MacOS and Windows, in addition to Linux
+
+
+
+
+WHO YOU ARE
+
+• You are customer obsessed
+
+• You drive for results, and act like an owner
+
+• You believe in the power of a team, diversity of thought, and unity of action
+
+• You always act with integrity, keep your commitments, and practice transparency
+
+• You think boldly, lead with courage, and demand the highest standards
+
+
+
+
+*Posiciòn en sitio, Technology Park, Carretera a Nogales
+
+Se busca nivel Sr. (5 años de experiencia) y Middle (2 años de experiencia)
+
+Giro:
+
+Automatizacion y control.
+
+Experiencia en PLC, Robots, y sistemas de inspección.
+
+Habilidades en al menos dos lenguajes de programación como: texto estructurado, y c#.
+
+Bases en el área automotriz.
+
+Experiencia en pruebas con el cliente tales como FAT & SAT
+
+Ingles necesario conversacional
+
+Disponibilidad para viajar."
+"Storage Specialist // Inglés Conversacional","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Infraestructura","Técnico titulado","Tiempo completo","Jornada completa","Presencial","Requerimientos
+
+Educación mínima: Técnico titulado
+
+Tenemos una posición como Storage Specialist para Queretaro / hibrido / Inglés Fluido.
+
+
+
+
+*Si perteneces a otro Estado de la república damos apoyo de reubicación.
+
+
+
+
+Inglés Fluido
+
+Experiencia de por lo menos 5 años trabajando en soluciones de almacenamiento: Dell, Netapp, IBM, Hitachi, HP, Pure Storage.
+
+• Conocimiento en tecnologias cloud storage
+
+• Experiencia en sistemas operativos Windows y Linux en entornos de almacenamiento.
+
+• Experiencia en tecnologias de virtualizacion VMware.
+
+• Capacidad para optimizar rendimiento y disponibilidad de datos
+
+• Skills:
+
+Dell: Unity, Data domain, PowerMax, Power Store, ECS.
+
+Pure Storage
+
+IBM: ESS ""GPFS"", Flash Systems, SVC, Storage Control.
+
+Hitachi: HNAS, VSP, HCP, Ops Center
+
+Broadcom: Swiches SAN
+
+CISCO: Switches SAN
+
+Netapp: OTS y Appliance
+
+Scality S3
+
+Oracle: ZFS
+
+
+
+
+Prestaciones superiores
+
+Contrato Directo
+
+Cursos certificados"
+"Ingeniero en Automatización PLC","La empresa es confidencial o no se encuentra disponible","","$ 28,000 - $ 32,000 Mensual",true,"Ingeniería","Automatización","Diplomado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Diplomado
 
 Requisitos:
 
--         Escolaridad mínima Bachillerato concluido (con certificado)
+·Escolaridad: Ing. Mecatrónica, automatización, Electrónico, Robótica, Sistemas o Afines.
 
--         Experiencia en ventas / Afore
+·Experiencia: 3 años en puestos similares comprobables enfocada a proyectos y modernizaciones
 
+·Con estabilidad laboral
 
+·Licencia de manejo vigente
 
+·Disponibilidad para viajar
 
-Ofrecemos:
+·Inglés técnico
 
--         Sueldo base
 
--         Ingresos reportados antes el seguro social al 100%
 
--         El mejor esquema de incentivos en la industria SIN TOPE
 
--         Prestaciones de Ley
+Conocimientos:
 
--         10 % de Vales de despensa adicionales al sueldo
+EN BÁSCULAS
 
--         Seguro de Vida
+DOSIFICADORAS, CAMIONERAS Y FERROVIARIAS
 
--         Seguro de accidentes para ti y tu familia
+·Microsoft Office, Software UNITY, CITECT
 
--         Plan privado de pensiones
+·Programación de PLC (Schneider, siemens, ABB, rodKwell)
 
--         Programa de reconocimientos
+·Programación de sistemas SCADA y HDI.
 
--         Plan de carrera
+·Programación de drives
 
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"EJECUTIVO DE ATENCION A CLIENTES (SUCURSAL)/L-V","Principal Financial","Metepec,, Edo. Méx.​","$8,364 - $12,000 Mensual",true,"Atención a clientes - Call Center","Atención al cliente","Bachillerato","Permanente","Tiempo completo","Presencial","Si buscas desarrollarte y crecer profesionalmente en una empresa global, desafiante, dinámica y con un gran ambiente laboral, donde tu trabajo pueda hacer una diferencia importante en el futuro financiero de las personas. ¡Súmate a un gran equipo de trabajo!
-
-
-
-
-Buscamos: Ejecutivo de Atención a Clientes en Sucursal
-
-
-
-
-Requisitos:
-
-- Escolaridad mínima Bachillerato concluido (con certificado)
-
-- Experiencia al menos 1 año en atención/servicio al cliente (deseable en Afore), o cargos similares
-
-- Manejo de paquetería de office
-
-
-
-
-Funciones básicas del puesto:
-
-Brindar atención al respecto de los trámites y servicios que se realizan en las sucursales, tener la prioridad de satisfacción del cliente, reducción de los tiempos de atención, responsabilidad para resolver dudas de manera asertiva.
-
-
-
-
-Ofrecemos:
-
-- Sueldo base
-
-- Ingresos reportados antes el seguro social al 100%
-
-- Esquema de incentivos
-
-- Prestaciones de Ley y Superiores
-
-- Vales de despensa adicionales al sueldo
-
-- Seguro de Vida
-
-- Seguro de auto
-
-- Plan privado de pensiones
-
-- Plan de carrera
-
-- Horario: Lunes a Viernes 8:30 a 6:00
-
-
-
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","San Luis Potosí,, SLP.","$15,000 - $20,000 Mensual",true,"Ventas","Ventas en general","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
-
-
-
-
-Buscamos: Especialistas en Afore
-
- 
-
-Requisitos:
-
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
-
-
-
-
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"Coordinador de capacitación y desarrollo","Tiendas 3B","Tarímbaro,, Mich.","$16,500 - $21,500 Mensual",true,"Recursos humanos","Capacitación y desarrollo","Universitario titulado","Permanente","Tiempo completo","Presencial","Te invitamos a formar parte de nuestro gran equipo de trabajo en Tiendas 3B, haz una carrera profesional y crece con nosotros.
-
-Somos lideres y pioneros en México del modelo Hard Discount. Un modelo de negocios que nos permite ser la empresa que crece más rápido en el país y ofrecer al mercado la opción para hacer una despensa inteligente.
-
-
-
-
-Puesto:
-
-Coordinador Regional de Capacitación y DO
-
-
-
-
-Perfil:
-
-· Escolaridad: Licenciatura terminada en Psicología, Administración o a fin.
-
-· Experiencia: mínima de 3 años en capacitación
-
-· Manejo de paquetería Office.
+·Redes industriales de comunicación
 
 
 
 
 Funciones:
 
-· Validar el cumplimiento dentro de su región a la normatividad ante la STPS.
+·Protocolos de Comunicaciones Industriales
 
-· Realizar seguimiento a su analista para garantizar los procesos de capacitación y desarrollo.
+·Programación y diseño de sistemas SCADA
 
-· Realizar detección de necesidades de capacitación.
+Básico
 
-· Elaborar y realizar seguimiento de presupuesto de capacitación y desarrollo.
+·Diseño redes
 
-· Dar seguimiento al proceso de incorporación del personal
+básico industrial
 
-· Llenado de bases de datos
+·Manejo de base de datos en SQL
 
-· Proponer al Gerente de Recursos Humanos eventos de integración y responsabilidad social
+·Calibración de instrumentos y basculas
+
+·Programar HMI´S
+
+·Puesta en marcha de instalaciones
+
+·Programación de sistemas DCS
 
 
 
 
-Beneficios:
 
-· Prestaciones de Ley
 
-· Beneficios de Prestaciones Superiores
 
-· Becas de estudios
+Ofrecemos:
 
-· Sueldo + Bono
+· Sueldo $28,000 A $32,000 BRUTOS MENSUALES
+
+· Prestaciones de ley y permisos con goce de sueldo
 
 · Vales de despensa
 
-· Seguro de vida
+· Horario de lunes a viernes
 
-· Gastos Funerarios
+· Empleo estable y buen ambiente de trabajo"
+"Ejecutivo Gobierno de Datos","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Big data","Diplomado","Tiempo completo","Jornada completa","Presencial","Requerimientos
 
-· Pago quincenal
+Educación mínima: Diplomado
 
-· Capacitación al puesto
+Descripción del Puesto:
 
-· Desarrollo Profesional
-
-· Estabilidad Laboral"
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","Querétaro,, Qro.","$15,000 - $20,000 Mensual",true,"Ventas","Ventas en general","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
+Nos encontramos en la búsqueda de un Ejecutivo de Gobierno de Datos para garantizar la calidad, seguridad e integridad de los datos en Finanzas y Procurement. Colaborará con equipos de seguridad y análisis de datos, utilizando herramientas especializadas como Cloud Data Governance de Informatica y Unity Catalog, asegurando el cumplimiento de los estándares corporativos y regulatorios.
 
 
 
 
-Buscamos: Especialistas en Afore
+Responsabilidades:
 
- 
+
+
+
+
+
+
+Gobernanza de datos en Finanzas y Procurement.
+Uso y gestión de herramientas de gobierno de datos, como Cloud Data Governance de Informatica y Unity Catalog.
+Gestión de activos técnicos en S4H, SAP ECC y Datalakes de la compañía.
+Soporte en la migración de datos.
+Coordinación con equipos de seguridad y datos para garantizar la integridad de la información.
+Participación en foros de negocio, comunicando información técnica a públicos no especializados.
+Exposición y presentación de temas relacionados con la gestión de datos.
+
+
+
+
+
+
+
+Skills Fundamentales:
+
+
+
+
+
+
+
+Formación en Actuaría, Matemáticas, Ciencias de Datos o afines, con enfoque en analítica y gestión de datos.
+Experiencia en gobierno de datos y gestión de herramientas como Cloud Data Governance de Informatica, Unity Catalog, Alation, BigID y Purview.
+Dominio de SQL (requisito indispensable).
+Experiencia en Integración de Datos (SQL, Databricks, Data Factory).
+Conocimientos en el marco de referencia DAMA - Data Management.
+Capacidad para comunicarse de manera efectiva en entornos de negocio y exponer temas técnicos a públicos no especializados.
+Inglés nivel B2."
+"Databricks Engineer","La empresa es confidencial o no se encuentra disponible","","$ 85,000 - $ 100,000 Mensual",true,"Tecnologías de la Información - Sistemas","Desarrollo de software - Programador","Técnico titulado","Tiempo completo","Jornada completa","Remoto","Requerimientos
+
+Educación mínima: Técnico titulado
+
+¡Te estamos buscando!
+
+Somos una empresa dedicada al desarrollo especializado de software y reclutamiento.
+
+
+
+
+Vacante nivel Medio (2 a 3 años de experiencia en Databricks). Sueldo: $45,000 a $67,000 brutos
+Vacante nivel Sr (+4 años de experiencia en Databricks). Sueldo: $70,000 a $100,000 brutos
+100% HO
+
+?
+
+Databricks Developer
+
+Experiencia en Spark en Scala
+Administración de Unity Catalog en Databricks
+Databricks SQL y Delta Lake
+Apache Airflow
+Amazon S3 / Amazon Redshift
+Python
+Inglés conversacional
+
+?
+
+Datos generales
+
+Esquema 100% Nomina
+Contrato indefinido
+
+
+
+
+Prestaciones
+
+Bono anual por desempeño
+24 días de aguinaldo
+50% prima vacacional
+Vacaciones conforme a la ley
+Seguro de gastos médicos mayores
+Seguro dental y óptico
+Seguro de vida
+Vales de despensa
+Apoyo psicológico, asesoría financiera y legal
+Certificaciones y cursos en línea
+
+¡Postúlate ahora!"
+"Ingeniero de datos","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Base de datos","Diplomado","Tiempo completo","Jornada completa","Remoto","Requerimientos
+
+Educación mínima: Diplomado
+
+Responsabilidades
+
+Experiencia trabajando con Databricks usando Unity Catalog
+
+? Diseñar e implementar pipelines de ingesta y transformación de datos utilizando Databricks
+
+(PySpark/SQL) y Delta Lake.
+
+? Integrar fuentes estructuradas y no estructuradas, archivos planos, bases de datos y
+
+conectores nativos.
+
+? Participar en el diseño y evolución de una arquitectura Lakehouse siguiendo el enfoque de
+
+capas Bronze, Silver y Gold.
+
+? Asegurar el cumplimiento de buenas prácticas de calidad de datos, trazabilidad,
+
+versionamiento y gobierno.
+
+? Implementar mecanismos de control de cambios y despliegue automatizado (CI/CD).
+
+? Monitorear y optimizar el rendimiento de los pipelines en ambientes de QA y producción.
+
+? Documentar soluciones técnicas y brindar soporte técnico a usuarios de negocio e ingeniería.
+
+
+
+
+Requisitos Técnicos
+
+? 4+ años de experiencia en ingeniería de datos o roles similares.
+
+? Experiencia comprobada en desarrollo sobre Azure Databricks y uso de Delta Lake.
+
+? Conocimiento profundo en arquitecturas Lakehouse y modelo de medallón.
+
+? Dominio en PySpark, SQL distribuido y procesamiento de grandes volúmenes de datos.
+
+? Experiencia en integración de datos mediante APIs REST, autenticación OAuth 2.0 y manejo de
+
+formatos JSON/XML.
+
+? Experiencia práctica en el uso de Unity Catalog para el control de acceso y la gobernanza de
+
+datos en Databricks.
+
+? Conocimientos sólidos en control de versiones con Git y flujos de trabajo de DevOps (CI/CD).
+
+? Experiencia trabajando bajo metodologías ágiles y colaborativas."
+"Category Mgr, Indirect Procurement","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Administrativo","Compras","Diplomado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Diplomado
+
+JOB DESCRIPTION
+
+BRIEF POSITION SUMMARY:
+
+The Indirect Procurement Category manager plays a critical role in managing and optimizing the company's
+
+purchasing processes, ensuring cost-effective procurement of goods and services, and maintaining high
+
+standards of quality. Will be responsible for managing procurement and sourcing strategies for indirect spend
+
+categories, such as office supplies, IT services, HR, travel, and professional services. Their role involves
+
+optimizing costs, negotiating contracts, and ensuring supplier performance aligns with business needs.
+
+DUTIES AND RESPONSIBILITIES
+
+• Develop and implement procurement strategies for assigned indirect spend categories by analyzing
+
+historical purchasing data, market trends, and supplier performance.
+
+• Identify cost-saving opportunities through supplier consolidation, negotiation, and efficient sourcing.
+
+• Lead contract negotiations, ensuring favorable terms, compliance, and risk mitigation.
+
+• Utilize advanced analytics tools (e.g., Excel, ERP software, or procurement platforms) to analyze
+
+purchasing patterns, demand forecasts, inventory levels, and budget constraints. Present data insights
+
+to senior management to influence purchasing strategies and budget allocation.
+
+• Monitor spending trends, identify areas for cost reduction, and implement strategies to reduce
+
+procurement costs. Work closely with finance and department heads to track and stay within budgetary
+
+guidelines.
+
+• Continuously evaluate and improve purchasing processes and workflows using data-driven insights.
+
+Implement best practices to enhance efficiency, reduce lead times, and streamline vendor selection
+
+and onboarding.
+
+• Continuously evaluate and improve purchasing processes and workflows using data-driven insights.
+
+Implement best practices to enhance efficiency, reduce lead times, and streamline vendor selection
+
+and onboarding.
+
+• Conduct market research to identify new suppliers and best practices.
+
+• Collaborate with internal stakeholders to understand business needs and align procurement strategies.
+
+• Build and maintain strong relationships with suppliers and vendors ensuring high performance and
+
+continuous improvement..
+
+• Conduct in-depth market analysis to assess potential suppliers, negotiate contracts, and secure
+
+favorable terms while ensuring product quality and delivery timelines.
+
+• Manage supplier relationships,
+
+• Monitor procurement activities, providing reports on savings, vendor performance, and risks.
+
+• Fosters the MSC Culture in the department and throughout the company to ensure fulfillment of MSC's
+
+vision and unity of purpose.
+
+• Participation in special projects and performs additional duties as required
+
+JD Template Revision Date 5/2/2024
+
+QUALIFICATIONS
+
+What You Need:
+
+• Bachelor's degree in business, supply chain management, or a related field required.
+
+• Minimum of five years in procurement, sourcing, or category management.
+
+• Strong verbal and written communication skills in both English and Spanish required
+
+• Strong understanding of procurement best practices and cost optimization strategies.
+
+• Ability to analyze data and generate actionable insights.
+
+• Excellent stakeholder management and cross-functional teamwork with departments like HR, IT, and finance.
+
+• Strong negotiation skills for cost efficiencies and expertise in supplier management and contract administration."
+"Spec, Supply Chain Business Process","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Logística - Transporte - Distribución - Almacén","Abastecimiento","Técnico titulado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Técnico titulado
+
+JOB DESCRIPTION
+
+BRIEF POSITION SUMMARY:
+
+The Supply Chain Business Process Specialist is a highly analytical and solutions-driven role. You will be responsible for identifying inefficiencies, analyzing root causes of supply chain challenges, and developing strategic solutions to optimize business operations. You will work closely with cross-functional teams to drive continuous improvements in processes, performance, and cost efficiency.
+
+DUTIES AND RESPONSIBILITIES
+
+• Conduct in-depth root cause analysis to identify supply chain disruptions, inefficiencies, and process bottlenecks.
+
+• Develop and implement data-driven business solutions to enhance supply chain performance and reduce operational costs.
+
+• Collaborate with procurement, logistics, operations, and finance teams to streamline processes and drive efficiency.
+
+• Work cross functionally to implement solutions
+
+• Utilize statistical analysis, predictive modeling, and advanced analytics to uncover trends and improvement opportunities.
+
+• Monitor key supply chain metrics and report insights to stakeholders.
+
+• Lead and support business initiatives focused on sustainability, cost reduction, and service-level improvements.
+
+• Stay updated on industry best practices, emerging technologies, and supply chain innovations.
+
+• Prepare detailed reports and presentations to communicate findings and recommendations.
+
+• Track financial and operational improvements to ensure change endures
+
+• Use change management process to implement adjustments
+
+• Fosters the MSC Culture in the department and throughout the company to ensure fulfillment of MSC's vision and unity of purpose.
+
+• Participation in special projects and performs additional duties as required
+
+QUALIFICATIONS
+
+What You Need:
+
+• Bachelor's degree in supply chain management, Business Analytics, Operations Research, or a related field.
+
+JD Template Revision Date 5/2/2024
+
+• Five years of experience in supply chain analytics, process optimization, or business consulting.
+
+• Strong proficiency in data analysis tools (Excel, SQL, Tableau, Power BI, etc.).
+
+• Expertise in problem-solving methodologies such as Six Sigma, Lean, or DMAIC.
+
+• Excellent communication and stakeholder management skills.
+
+• Ability to work in a dynamic, fast-paced environment and lead change initiatives."
+"Docente en Diseño, Animación y Arte Digital - Diseño de Modas - Diseño Industrial / UNITEC","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Educación","Maestro - Docente - Profesor","Diplomado","Medio tiempo","Tiempo parcial","","Requerimientos
+
+Educación mínima: Diplomado
+
+Acerca de la empresa
+
+
+
+
+La Universidad Tecnológica de México es una institución reconocida por su excelencia académica y su compromiso con la formación integral de sus estudiantes. En un entorno dinámico y colaborativo, priorizamos el crecimiento profesional y personal de nuestros colaboradores, brindando oportunidades únicas para el desarrollo académico y profesional.
+
+Ubicación: Atizapán de Zaragoza, Estado de México.
+
+
+
+
+Objetivo: Impartir clases a nivel Licenciatura contribuyendo al proceso de enseñanza, a fin de elevar la calidad educativa del alumnado, con apego a los programas académicos, la misión institucional, y una excelencia académica.
+
+
+
+
+REQUISITOS:
+
+
+
+
+Experiencia: mínima 5 años en campo laboral y 2 en docencia a nivel Licenciatura, grupos grandes de 60.
+Horario abierto entre lunes a viernes de 7:00 am a 4:00 pm.
+Habilidades: Comunicación, plataformas Digitales para la educación, creativo, manejo de diferentes herramientas didácticas, para la proyección del proceso de enseñanza-aprendizaje.
+
+
+
+
+
+
+
+VACANTES DISPONIBLES:
+
+
+
+
+LICENCIATURA EN DISEÑO DE MODAS
+
+
+
+
+Indispensable contar con título y cédula.
+
+
+
+
+Materias Para Impartir:
+
+
+
+
+DISEÑO DE LENCERÍA Y TRAJES DE BAÑO
+DISEÑO DE PRENDAS A PUNTO
+
+
+
+
+Conocimientos en: técnicas, elaboración de patrones para lenceria y trajes de baño / técnicas y tipos de tejido, selección de materiales de prendas de vestir.
+
+
+
+
+LICENCIATURA EN DISEÑO, ANIMACIÓN Y ARTE DIGITAL
+
+
+
+
+?Indispensable contar con título y cédula.
+
+
+
+
+Materia Para Impartir:
+
+
+
+
+DISEÑO Y VIDEOJUEGOS
+
+
+
+
+Conocimientos en: Conocimientos en Unity / Diseño de maquetación de niveles /
+
+
+
+
+LICENCIATURA EN DISEÑO INDUSTRIAL
+
+
+
+
+Indispensable contar con título y cédula.
+
+
+
+
+Materia Para Impartir:
+
+
+
+
+DISEÑO DE OBJETOS ESPECIALIZADOS
+BOCETAJE
+
+
+
+
+Conocimientos en: Metodología de diseños digitales especializados / Necesidades especializadas / Dibujo y Técnicas / Diseño de Interiores / Diseño de Videojuegos / Sensibilidad Ergonómica
+
+
+
+
+
+
+
+PRESTACIONES Y BENEFICIOS ADICIONALES
+
+
+
+
+Descuentos empresariales.
+Horarios flexibles que se adaptan a tu calidad de vida.
+Plan de desarrollo que te permitirá construir una trayectoria docente.
+Capacitación docente continua, para que puedas mejorar la efectividad de tu enseñanza dentro de la clase.
+Como docente UNITEC puedes obtener beca para ti, tus hijos/as y también para tu cónyuge. *aplican condiciones.
+Pago de utilidades.
+Prestaciones de ley (seguridad social, aguinaldo, vacaciones, etc.)
+Pagos quincenales.
+Contratación por nómina.
+Pago por hora laborada
+
+
+
+
+En este centro de trabajo queda prohibida la solicitud de certificados médicos de no embarazo y de VIH como requisito para el ingreso, permanencia o ascenso en el empleo*"
+"Automation Project Manager","Empresa confidencial","","Sueldo no mostrado por la empresa",true,"Ingeniería","Automatización","Diplomado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Diplomado
+
+EMPRESA ESPECIALIZADA EN LA INDUSTRIA DE AUTOMATIZACIÓN
+
+***SOLO SE CONSIDERA PERSONAL QUE REUNA REQUISITOS***
+
+
+
 
 Requisitos:
 
--         Escolaridad mínima Bachillerato concluido (con certificado)
+·Escolaridad: Ing. Automatización, Ing. Mecatrónica, Ing. Electrónico, Ing. Robótica o carreras afines, deseable maestría.
 
--         Experiencia en ventas / Afore
+·Experiencia: 5 años mínimo en puestos similares comprobables de manera estable
 
+·Inglés: Intermedio
 
+·Indispensable: Disponibilidad para viajar, visa y pasaporte
 
+·Disponibilidad para puestas en marcha (Trabajo en sitio).
 
-Ofrecemos:
+·Conocimiento técnico y experiencia con equipos mecatrónicos, instrumentación, sensores y actuadores, supervisión de personal
 
--         Sueldo base
 
--         Ingresos reportados antes el seguro social al 100%
 
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","Guadalajara,, Jal.","$15,000 - $20,000 Mensual",true,"Ventas","Ventas en general","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
-
-
-
-
-Buscamos: Especialistas en Afore
-
- 
-
-Requisitos:
-
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
-
-
-
-
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","León,, Gto.","$15,000 - $20,000 Mensual",true,"Ventas","Ventas de campo","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
-
-
-
-
-Buscamos: Especialistas en Afore
-
- 
-
-Requisitos:
-
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
-
-
-
-
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR AFORE-Prestaciones Superiores/Comisiones sin tope","Principal Financial","León,, Gto.","$15,000 - $20,000 Mensual",true,"Ventas","Ventas en general","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
-
-
-
-
-Buscamos: Especialistas en Afore
-
- 
-
-Requisitos:
-
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
-
-
-
-
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","Metepec,, Edo. Méx.​","$15,000 - $20,000 Mensual",true,"Ventas","Ventas en general","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
-
-
-
-
-Buscamos: Especialistas en Afore
-
- 
-
-Requisitos:
-
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
-
-
-
-
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","León,, Gto.","$15,000 - $20,000 Mensual",true,"Ventas","Desarrollo de negocios","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
-
-
-
-
-Buscamos: Especialistas en Afore
-
- 
-
-Requisitos:
-
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
-
-
-
-
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"Analista de compras y logística","Tiendas 3B","Tarímbaro,, Mich.","$12,600 - $14,600 Mensual",true,"Logística - Transporte - Distribución - Almacén","Abastecimiento","Universitario titulado","Permanente","Tiempo completo","Presencial","Te invitamos a formar parte de nuestro gran equipo de trabajo en Tiendas 3B, haz una carrera profesional y crece con nosotros.
-
-Somos líderes y pioneros en México del modelo Hard Discount. Un modelo de negocios que nos permite ser la empresa que crece más rápido en el país y ofrecer al mercado la opción para hacer una despensa inteligente.
-
-Puesto:
-
-Analista de Compras
-
-Perfil:
-
-Escolaridad: Licenciatura Concluida en Relaciones Comerciales, Comercio Interior, Mercadotecnia, Administración o afín
-Experiencia: Mínima de 1 año en el área de compras de retail, abastecimiento
-
-Habilidades:
-
-Analítico, Solución a Problemas, Iniciativa, Comunicación
 
 Funciones:
 
-· Elaborar diariamente las órdenes de compra asegurando que los días de inventario no excedan.
+·Diseño de redes de comunicación y control (arquitectura de control)
 
-· Verificar las existencias de los productos e identificar posibles riesgos en el inventario.
+·Diseño de sistemas de control de PLC/SCADA (Diagramas de flujo, Diagramas de proceso, Listado de señales, selección de hardware).
 
-· Revisar diariamente el reporte de Stock Out y tomar acciones para resolverlos y evitarlos.
+·Programación PLC mediante lenguajes Escalera, diagramas de bloques, estructurado, grafset. Modelos de PLC Contrologix, Compactlogis, Seguridad, Controlexpert, Unity.
 
-· Generar los pedidos forzados para los productos nuevos, temporales y desplazables, balanceando correctamente el inventario en tiendas de forma semanal.
+·Programación SCADA (Allen Bradley, Siemens, Schneider).
 
-· Apoyar al Gerente de compras en tareas específicas del departamento.
+·Programación de HMI.
 
-Beneficios:
+·Conocimientos en redes ethernet.
 
-· Prestaciones de Ley
+·Interpretación de diagramas eléctricos en AUTOCAD.
 
-· Sueldo + Bono
+·Instalaciones de software.
 
-· Vales de despensa
+·Conocimientos eléctricos.
 
-· Seguro de vida
+·Coordinación de personal a su cargo.
 
-· Gastos Funerarios
+·Elaboración de presupuestos.
 
-· Pago quincenal
+·Dar soporte al personal a su cargo.
 
-· Capacitación al puesto
+·Atención del Clientes, usuarios
 
-· Desarrollo Profesional
-
-· Estabilidad Laboral"
-"ASESOR FINANCIERO AFORE-Sueldo/Comisiones/L-V","Principal Financial","León,, Gto.","$15,000 - $20,000 Mensual",true,"Ventas","Ejecutivo empresarial banca","Bachillerato","Permanente","Tiempo completo","Presencial","Intégrate a nuestro equipo, si te apasiona el mundo financiero, ayudar a la gente a generar patrimonios de ahorro e inversiones, Principal te está buscando.
+·Asegurar que todas las actividades se realicen con el debido respeto a las normas de salud y seguridad aplicables a la actividad, además de la entrega de proyecto en tiempo y forma
 
 
 
 
-Buscamos: Especialistas en Afore
+Ofrecemos:
 
- 
+·Sueldo NEGOCIABLE de acuerdo a experiencia y aptitudes
+
+·prestaciones de ley y superiores
+
+·Horario de lunes a viernes"
+"Ing. deDatos TI en Monterrey","La empresa es confidencial o no se encuentra disponible","","$ 35,000 - $ 40,000 Mensual",false,"Tecnologías de la Información - Sistemas","Informática","Técnico titulado","Tiempo completo","Jornada completa","Presencial","Requerimientos
+
+Educación mínima: Técnico titulado
+
+En Grupo TI buscamos un Ing. de DatoS TI con las siguientes características:
+
+
+
+
+Requerimiento:
+
+-Al menos 2 años de experiencia trabajando con:
+
+Databricks (Spark, DeltaLake, Workflows)
+Dominio de Python, SQL y ETL/ELT
+Experiencia en cloud (Azure)
+Conocimiento de pipelines y manejo de clusteres Spark
+Experiencia con Unity Catalog (deseable)
+
+
+
+
+
+
+
+Proyecto híbrido en Monterrey, NL"
+"Specialist Category Operations and Cost Management","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Manufactura - Producción - Operación","Operaciones","Técnico titulado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Técnico titulado
+
+BRIEF POSITION SUMMARY:
+
+The Category Operations Specialist, Cost Management COE (Center of Excellence) is responsible for execution and continuous improvement of cost-related processes. The Specialist will ensure data is consistent and accurate, provide timely responses to information or service requests, and execute processes and programs. The Specialist will work within the Operations COE team and cross-functionally with internal customers.
+
+
+
+
+DUTIES AND RESPONSIBILITIES
+
+• Follows the cost management process that begins with a cost change notification from a supplier, while maintaining a continual improvement mindset.
+
+• Follow processes to estimate impact on the business, work with the supplier to confirm the change and address any anomalies, share and receive approval from Category Strategy and enter changes into the system. Some level of negotiations may be needed.
+
+o Interprets and provides analytical details of cost change to support business decisions
+
+o Uses internal reporting to conduct regular meetings with Category Strategy to review open tasks
+
+• Manages costing errors while identifying themes and reducing the number of discrepancies. Performs due diligence to understand root causes of errors on PO or invoices from a supplier, updates information appropriately and resolves supplier disputes regarding cost.
+
+o Works cross-functionally with Supply Chain, suppliers, Accounts Payable, sales associates and Category Strategy to resolve issues and inform on resolutions
+
+• Assist with training new associates in cost management processes whether within Category Operations or Category Strategy.
+
+• Analyze cost / sell price relationships related to cost maintenance and work with Strategic Pricing to update sell prices.
+
+• Identifies improvement opportunities along with proposed solutions for key processes.
+
+• Performs consistent and accurate data input and assessment.
+
+• Fosters the MSC Culture in the department and throughout the company to ensure fulfillment of MSC's vision and unity of purpose.
+
+• Participation in special projects and performs additional duties as required
+
+
+
+
+QUALIFICATIONS
+
+What You Need:
+
+• Bachelors' Degree required
+
+• Two to four years of experience in supply chain, distribution, or finance/analytics required.
+
+• MS Office Suite proficiency required; MS Excel Intermediate skill level or above required.
+
+• Knowledge of Business acumen, key financial metrics and basic business concepts
+
+• Ability to multi-task, prioritize and manage time effectively
+
+• Highly organized and works with a sense of urgency
+
+• Agile learner who can think on their feet and be flexible
+
+• Attention to detail
+
+• Excellent written and verbal communication skills
+
+• Ability to quickly learn new systems and processes
+
+• Self-starter able to work autonomously
+
+• Customer service focused
+
+• Proactive thinker with strong problem-solving and analytical skills
+
+• Ability to collaborate and work cross-functionally with different teams and personalities
+
+• Able to build sustainable relationships of trust through open and interactive communication
+
+
+
+
+Bonus Points If You Have:
+
+• Degree area of study in Business, Marketing, Supply Chain, or equivalent area of study preferred.
+
+• AS400 and SharePoint experience preferred."
+"Sr. Market Pricing Analyst","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Contabilidad - Finanzas","Análisis financiero - Pronóstico","Técnico titulado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Técnico titulado
+
+BRIEF POSITION SUMMARY:
+
+The Senior Marketing Pricing Analyst, under limited supervision, is responsible for the effective maintenance of MSC's credible ranges which includes proactively analyzing and making recommendations to optimize sales and profitability, while considering competitive market dynamics, category role, costs and other levers. This role will use various enterprise software and tools to collect, analyze and evaluate data supporting the effective management of credible ranges. In addition, this role is responsible for running analysis to determine ideal price points, optimizing revenue and profitability for new and existing products. This position supports key processes and methods to evaluate and recommend credible range in the establishment of price.
+
+
+
+
+DUTIES AND RESPONSIBILITIES
+
+• Partners with third parties to effectively source and maintain web scrapings.
+
+• Maintains Business Unit approved optimal competitors to scrape by category to support credible range calculations.
+
+• Maintains premium or discount applied to competition by category to support credible range calculations.
+
+• Ensures unit of measures mapped correctly.
+
+• Highlights any exclusive brand only taxonomies so that the Business Units can provide exclusive brand crosses to competition.
+
+• Compiles and maintains Good/Better/Best, Industry brand to exclusive brand, Brand, UOM relationships, Size Factors & Anchor SKU from Business Unit/Category teams including coordinating with marketing/digital to support data being available for downstream processes.
+
+• Compiles manufacturer list prices maintained by the Cost Management Team.
+
+• Compiles, validates, obtains approval, and incorporates new logic to derive “Market-Derived Credible Prices”.
+
+• Calculates and publishes credible MSC price range for all active items monthly.
+
+• Helps drive the credible range pricing process and analytics to optimize MSC visible market prices.
+
+• Partners with Precision, Pricing team, IT and pricing application provider in design and implementation of systems and reporting improvements for measuring and monitoring credible range prices
+
+• Serve as a trusted adviser to the category teams on credible range process to support profitable sales growth.
+
+• Build strong cross functional working relationships inclusive of marketing, finance, and business
+
+• intelligence, IT, sales operations, category management, and field sales for all customer segments.
+
+• Understands and interprets organization goals and initiatives so that priorities are balanced, and timelines established in a cost-effective manner.
+
+Fosters the MSC Culture in the department and throughout the company to ensure fulfillment of MSC's vision and unity of purpose.
+
+• Participation in special projects and performs additional duties as required
+
+
+
+
+QUALIFICATIONS
+
+What You Need:
+
+• A bachelor's degree in business, finance or equivalent experience is required
+
+• Minimum of eight years' professional experience with at least five years' experience in an analytical role with one or more of the following disciplines: financial analysis, business strategies, pricing or sales required
+
+• Expertise in retrieving data from systems, such as business intelligence tools
+
+• Hands-on expertise of large-data analytics tools, such as Alteryx and Tableau, and/or specific pricing applications such as PROS, Vendavo, Zilliant, R Studio or others
+
+• Experience working with distribution, manufacturing or related industrial markets
+
+• Excellent PC skills (MS Office Excel, Powerpoint, Word, Access) required
+
+• Excellent analytical, quantitative and data visualization skills are required
+
+• Financial analytics with a deep understanding of revenue, margin and pricing
+
+• Excellent oral and written communication skills are required
+
+• Ability to communicate effectively with all levels of associates within the organization required"
+"SOPORTE TÉCNICO NIVEL 2","La empresa es confidencial o no se encuentra disponible","","$ 20,000 - $ 25,000 Mensual",true,"Tecnologías de la Información - Sistemas","Infraestructura","Técnico titulado","Tiempo completo","Jornada completa","","Requerimientos
+
+Educación mínima: Técnico titulado
+
+Focus On Services SA de CV
+
+
+
+
+Focus On Services es una empresa Mexicana, del ramo de Servicios de Tecnologías de Información, legalmente establecida desde el año 2000 y con una extensa cobertura geográfica en América Latina.
+
+Te invitamos a formar parte de nuestro equipo de trabajo como:
+
+
+
+
+
+
+
+SOPORTE TÉCNICO NIVEL 2
+
+
+
+
+
+
 
 Requisitos:
 
--         Escolaridad mínima Bachillerato concluido (con certificado)
-
--         Experiencia en ventas / Afore
 
 
 
+· Licenciatura o Ingeniería en Sistemas, Computación, Informática o afín.
 
-Ofrecemos:
-
--         Sueldo base
-
--         Ingresos reportados antes el seguro social al 100%
-
--         El mejor esquema de incentivos en la industria SIN TOPE
-
--         Prestaciones de Ley
-
--         10 % de Vales de despensa adicionales al sueldo
-
--         Seguro de Vida
-
--         Seguro de accidentes para ti y tu familia
-
--         Plan privado de pensiones
-
--         Programa de reconocimientos
-
--         Plan de carrera
-
--         Convenciones internacionales
-
--         Acompañamiento y capacitación continua
-
-Horario: Lunes a Viernes 8:30 a 6:00
-
- 
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"EJECUTIVO DE ATENCION A CLIENTES (SUCURSAL)/L-V","Principal Financial","Guadalajara,, Jal.","$10,000 - $15,000 Mensual",true,"Ventas","Ejecutivo empresarial banca","Bachillerato","Permanente","Tiempo completo","Presencial","Si buscas desarrollarte y crecer profesionalmente en una empresa global, desafiante, dinámica y con un gran ambiente laboral, donde tu trabajo pueda hacer una diferencia importante en el futuro financiero de las personas. ¡Súmate a un gran equipo de trabajo!
+· Experiencia mínima de 2 años en puesto similar.
 
 
 
 
-Buscamos: Ejecutivo de Atención a Clientes en Sucursal
+
+
+
+Experiencia:
 
 
 
 
-Requisitos:
+· Conocimientos avanzados de ambiente VMware (instalación, configuración, actualización, creación de VMS, migración de VMS , etc).
 
-- Escolaridad mínima Bachillerato concluido (con certificado)
+· Experiencia en infraestructura (Sistema IDRAC (Sistema de Gestión Remota de Servidores DELL))
 
-- Experiencia al menos 1 año en atención/servicio al cliente (deseable en Afore), o cargos similares
+· Actualización de Firmwares en equipos del tanto físico como directo de la consola (OME)
 
-- Manejo de paquetería de office
+· Conocimientos de almacenamiento SAN Y NAS (protocolos) y equipos de almacenamiento UNITY
 
+· Conocimientos en red (switches DELL y Brocade, configuraciones, Zoneo, etc)
 
+· Conocimiento en soporte físico a servidores y storages
 
+· Creación y seguimiento de incidencias y solicitudes directamente con el proveedor
 
-Funciones básicas del puesto:
-
-Brindar atención al respecto de los trámites y servicios que se realizan en las sucursales, tener la prioridad de satisfacción del cliente, reducción de los tiempos de atención, responsabilidad para resolver dudas de manera asertiva.
+· Conocimiento en instalación de sistemas operativos Windows Server y LINUX
 
 
 
 
 Ofrecemos:
 
-- Sueldo base
+Sueldo $20,000 - $25,000 Brutos mensuales + Vales de despensa
 
-- Ingresos reportados antes el seguro social al 100%
-
-- Esquema de incentivos
-
-- Prestaciones de Ley y Superiores
-
-- Vales de despensa adicionales al sueldo
-
-- Seguro de Vida
-
-- Seguro de auto
-
-- Plan privado de pensiones
-
-- Plan de carrera
-
-- Horario: Lunes a Viernes 8:30 a 6:00
-
-
-
-
-Si te interesa saber más de nuestra vacante o conoces a alguien a quien pueda interesarle, enviar CV postulandote en este medio o al correo de contacto."
-"Jefe de Expansión","Tiendas 3B","Morelia,, Mich.","$38,000 - $41,000 Mensual",true,"Construcción - Inmobiliaria - Arquitectura","Urbanismo","Universitario titulado","Permanente","Tiempo completo","Híbrido","Descripción: ( localizador de lugares para nuevas aperturas )( No construcción / No obras , No ventas)
-
-Te invitamos a formar parte de nuestro gran equipo de trabajo Tiendas 3B. haz una carrera profesional y crece con nosotros. somos lideres y pioneros en México del modelo Hard Discount. un modelo de negocios que nos permite ser la empresa que crece mas rápido en el país y ofrecer al mercado la opción para hacer una despensa inteligente.
-
-Puesto Coordinador Regional de Expansión ( localizador de sitios para aperturas de sucursales, No construcción, No Obras, No ventas)
-
-EXPERIENCIA PREVIA
-
-Perfil:
-
-*Licenciatura: ingeniería civil ,arquitectura ,administración ,urbanismo o a fin
-
-*Desarrollo de proyectos
-
-*Negociación del local o predio con el dueño ( tiempo de contrato. renta, )
-
-*Localización de terrenos o locales para la apertura nuevas sucursales 3b
-
-Actividades:
-
-Cumplir con el objetivo de firmas y aperturas de tiendas de acuerdo a los requerimientos y condiciones de Tiendas 3B.
-Buscar que las tiendas firmadas sean rentables para la empresa.
-Conseguir las mejores condiciones de contrato para Tiendas 3B.
-Colaborar con el área de Gestoría para la obtención de permisos y licencias, hasta la apertura de la tienda.
-Colaborar con el área de construcción desde la elaboración del levantamiento de un sitio propuesto, hasta la apertura de una tienda.
-Actualizar e informar periódicamente las competencias nuevas que se incorporan al mercado.
-Ser el principal contacto del arrendador con Tiendas 3B.
-Participar activamente en la elaboración del plan rector de expansión con Gerente Regional de Expansión.
-Proponer las curvas de ventas ROIC de los sitios propuestos y asegurar que éstos cumplan con los parámetros de retornos de inversión de la compañía.
-
-Ofrecemos:
-
-Sueldo competitivo + incentivos
+Esquema 100% nominal
 
 Prestaciones de ley
 
-contratación directa con la compañía
+Trabajo presencial. Ciudad Judicial, Zapopan, Jalisco. (a un costado del estadio Akron)
 
-vales de despensa
 
-Disponibilidad para viajar ( ocasionalmente)
 
-plan de carrera.
 
-coche utilitario / celular / laptop
+Envía tu Curriculum actualizado al correo descrito, mencionado con tus expectativas económicas y tu disponibilidad para ingresar a laborar y nos pondremos en contacto contigo.
 
-seguro de vida
 
-gastos funerarios
 
-Experiencia necesaria en la localización de lugares para la apertura de nuevas sucursales ( predio o local)"
-"Promotor educativo","TROZMER CENTRO UNIVERS...","Puebla,, Pue.","$8,500 - $8,600 Mensual",false,"Ventas","Ventas en general","Universitario titulado","Permanente","Tiempo completo","Presencial","Acerca de la empresa
 
+¡Muchas gracias!"
+"Data Solutions Architect","Empresa confidencial","","$ 65,000 - $ 70,000 Mensual",true,"Tecnologías de la Información - Sistemas","Arquitecto de soluciones","Diplomado","Tiempo completo","Jornada completa","Presencial","Requerimientos
 
+Educación mínima: Diplomado
 
+Posición Híbrida en CDMX
 
-TROZMER CENTRO UNIVERSITARIO es una reconocida institución educativa con una historia de excelencia en la formación académica. Como Promotor Educativo en nuestras instalaciones en Puebla, Puebla, tendrás la oportunidad de formar parte de un equipo comprometido con la difusión y promoción de nuestros programas de licenciatura, maestrías y especialidades.
+Experiencia Requerida
 
+Mínimo 8 años de experiencia profesional en soluciones de datos, arquitectura cloud o ingeniería de datos.
 
+Al menos 3 años diseñando soluciones distribuidas en la nube con foco en disponibilidad, rendimiento y gobernanza.
 
+Experiencia en implementación de arquitecturas de tipo Data Lakehouse y Data Mesh.
 
-Requisitos del puesto
+Participación comprobada en proyectos con exposición de datos mediante APIs, integración de múltiples fuentes y federación de datos.
 
+Conocimiento profundo de herramientas como Databricks, Azure Synapse, Azure Data Factory, FastAPI y Azure Storage.
 
+Experiencia en ambientes regulados o con necesidades avanzadas de seguridad, trazabilidad y control de acceso.
 
+Deseable experiencia en proyectos con enfoque en data products y domain-driven design.
 
-Educación mínima requerida: Universitario con título.
-Experiencia en ventas, gestión, difusión y promoción.
-Habilidades en ventas y gestión.
-Conocimientos en difusión y promoción por medios electrónicos y vía telefónica.
+Responsabilidades Clave
 
+Estrategia y Arquitectura
 
+Definir y evolucionar la arquitectura de datos de la organización, asegurando escalabilidad, resiliencia y alineación estratégica.
 
+Diseñar y guiar la adopción de arquitecturas cloud-native, event-driven y orientadas a productos de datos.
 
+Evaluar nuevas tecnologías, enfoques y marcos de trabajo en función del roadmap de datos y analítica avanzada.
 
+Diseño de Soluciones y Exposición de Datos
 
+Liderar el diseño técnico de productos de datos reutilizables y expuestos como APIs (usando FastAPI, Azure API Management).
 
-Responsabilidades del puesto
+Diseñar pipelines y estructuras Lakehouse con Databricks, Delta Lake y Azure Data Lake.
 
+Implementar patrones de integración y federación de datos bajo principios de Data Mesh y dominio distribuido.
 
+Gobierno, Seguridad y Operabilidad
 
+Definir estándares técnicos de versionado, monitoreo, testing automatizado y CI/CD para soluciones de datos.
 
-Diseñar y coordinar las actividades de promoción y admisiones para captar el mayor número de alumnos de nuevo ingreso, cumpliendo con las metas establecidas.
-Gestionar la promoción y difusión de los programas de licenciatura que ofrece la Universidad.
-Supervisar la atención integral y seguimiento a los aspirantes interesados en los programas académicos de licenciatura, brindando asistencia personalizada en el proceso de admisión.
-Promover la oferta educativa a nivel local y nacional a través de visitas a instituciones educativas.
-Mantener contacto con las áreas de mercadotecnia y diseño para la elaboración de campañas publicitarias efectivas.
-Colaborar con las coordinaciones académicas, el área de finanzas y servicios escolares en la promoción y atención de prospectos.
-Crear y mantener actualizada una base de datos y estadísticas para el seguimiento de los prospectos.
-Gestionar la organización y logística de eventos relacionados con la promoción en las instalaciones de la universidad y en ferias vocacionales.
-Gestionar los recursos y presupuestos asignados al área de promoción.
-Realizar visitas domiciliarias a negocios o empresas para ofertar nuestras maestrías y especialidades.
+Asegurar cumplimiento de políticas de gobernanza, privacidad, control de acceso y trazabilidad.
 
+Supervisar la correcta catalogación, documentación y descubrimiento de activos de datos (Unity Catalog, Purview).
 
+Colaboración y Acompañamiento
 
+Actuar como puente entre equipos técnicos, dominios de negocio y stakeholders estratégicos.
 
+Promover el diseño colaborativo, el reuso de componentes y la arquitectura evolutiva.
 
+Brindar soporte técnico a equipos de data engineering, analytics y ciencia de datos.
 
+Competencias de Liderazgo y Soft Skills
 
-Prestaciones y beneficios adicionales
+Pensamiento Sistémico: Capacidad para diseñar arquitecturas integradas y sostenibles.
 
+Comunicación Interfuncional: Traducir requerimientos técnicos y de negocio de forma clara.
 
+Orientación a la Reutilización: Foco en crear componentes modulares, escalables y compartibles.
 
+Liderazgo Técnico: Influenciar decisiones técnicas en equipos multidisciplinarios.
 
-Oportunidad de crecimiento y desarrollo profesional.
-Excelente ambiente de trabajo.
-Capacitación constante en técnicas de promoción y ventas.
+Gestión de la Complejidad: Resolver problemas técnicos de alto impacto y escala.
 
+Mentalidad de Plataforma y Producto: Diseñar soluciones centradas en experiencia del consumidor de datos.
 
+Curiosidad Tecnológica y Aprendizaje Continuo: Explorar nuevas herramientas y marcos para mantener la arquitectura al día."
+"Consultor de Realidad Aumentada","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Ingeniería","Innovación y desarrollo","Diplomado","Tiempo completo","Jornada completa","","Requerimientos
 
+Educación mínima: Diplomado
 
+Oferta de Trabajo: Consultor de Realidad Aumentada (AR)
 
+Ubicación: Hibrido
 
+Tipo de contrato: Tiempo completo
 
-Únete a nuestro equipo y contribuye a brindar una educación de calidad a nuestros futuros alumnos."
-"Project Manager Tecnología / Gerente de Sistemas","Key Recruitment & Cons...","CDMX","$22,000 - $25,000 Mensual",true,"Tecnologías de la Información - Sistemas","Soporte técnico","Universitario titulado","Permanente","Tiempo completo","Presencial","Empresa de servicios de comunicación especializada en temas de la salud y la industria farmacéutica está buscando:
+Experiencia requerida: más de 3 años en proyectos de Realidad Aumentada
 
 
 
 
-PROJECT MANAGER TECNOLOGÏA / GERENTE DE SISTEMAS
+En Branchbit, combinamos tecnología, creatividad e innovación para desarrollar experiencias digitales que transforman la forma en que las personas interactúan con el mundo. Estamos en busca de un Consultor de Realidad Aumentada (AR) apasionado por la tecnología inmersiva, con experiencia en el diseño, desarrollo y despliegue de soluciones AR en entornos reales de negocio.
 
 
 
 
-Principales funciones:
+Responsabilidades:
 
+Analizar necesidades del cliente y proponer soluciones basadas en Realidad Aumentada.
+Diseñar experiencias interactivas usando plataformas como Unity, Unreal Engine, ARKit, ARCore, o WebAR
+Colaborar con equipos de desarrollo, diseño UX/UI y negocio para asegurar la viabilidad técnica y estratégica de los proyectos.
+Identificar oportunidades para integrar AR en procesos comerciales, capacitación, marketing o visualización de productos.
+Documentar soluciones, generar presentaciones técnicas y apoyar en la elaboración de propuestas.
 
 
 
-- Gestión de infraestructura tecnológica
 
-- Administra servidores, redes, bases de datos, y sistemas operativos.
+Requisitos:
 
-- Garantiza la continuidad operativa y disponibilidad de los servicios.
+Experiencia comprobada en desarrollo o consultoría de proyectos de AR.
+Conocimientos en plataformas y frameworks AR (Unity + Vuforia, ARKit, ARCore, 8thWall, etc.).
+Capacidad para entender requerimientos técnicos y de negocio.
+Buen manejo de herramientas de prototipado y visualización (por ejemplo, Blender, Figma, Sketch).
+Conocimiento de lenguajes como C#, JavaScript o Python es un plus.
+Habilidades de comunicación clara y efectiva con clientes y equipos multidisciplinarios.
+Inglés técnico (lectura y escritura).
 
-- Seguridad informática
+Deseable:
 
-- Implementa políticas de ciberseguridad y protección de datos.
+Experiencia en integración de AR con IoT, inteligencia artificial o realidad mixta.
+Experiencia en aplicaciones móviles o WebXR
+Conocimiento en arquitectura de software y patrones de diseño aplicados a soluciones inmersivas.
 
-- Supervisa auditorías, controles de acceso y gestión de incidentes.
 
-- Supervisión del soporte técnico
 
-- Coordina el equipo de Help Desk o soporte TI.
 
-- Asegura atención eficiente a usuarios y resolución de incidentes.
+¿Interesado/a?
 
-- Planificación estratégica de TI
 
-- Define la hoja de ruta tecnológica alineada con los objetivos de la empresa.
 
-- Evalúa nuevas tecnologías para modernizar los sistemas internos.
 
-- Control de presupuestos y proveedores
+Envía tu CV, postúlate directamente a través de esta publicación."
+"Ejecutivo Gobierno de datos","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Tecnologías de la Información - Sistemas","Ingeniería de datos","Diplomado","Tiempo completo","Jornada completa","Presencial","Requerimientos
 
-- Administra el presupuesto del área de TI.
+Educación mínima: Diplomado
 
-- Negocia contratos con proveedores de software, hardware y servicios.
+Propósito General del rol:
 
-- Documenta configuraciones, políticas y procedimientos.
+Administrar y facilitar las actividades de Gobierno de datos, analíticos y AI mediante la correcta creación de canales de comunicación en las áreas funcionales, buscar la correcta adopción y participación de los roles que gestionarán los datos analíticos en la compañía, desarrollar en conjunto con las áreas de negocio, tecnología y analíticos las áreas de conocimiento para la correcta gestión de los datos
 
-- Innovación tecnológica y mejora continua
 
 
 
+Responsabilidades:
 
-ZONA DE TRABAJO: SUR"
-"Gerente de Contabilidad","Key Recruitment & Cons...","Guadalupe Inn,, Álvaro Obregón,, CDMX","$30,000 - $40,000 Mensual",true,"Contabilidad - Finanzas","Contabilidad","Universitario titulado","Permanente","Tiempo completo","Presencial","CONTABILIDAD (BALANCE GENERAL CON BANCOS, INVERSIONES, DEUDORES, ESTADO DE RESULTADOS, ELABORACIÓN ANUAL DE BALANCE GENERAL, ELABORACION ANUAL DE ESTADOS DE RESULTADOS, DE VARIACIONES). TESORERÍA (CONTROLAR Y LLEVAR ACTUALIZADOS TODAS LAS CUENTAS BANCARIAS, TOKENS, FIRMAS, AUTORIZACIONES."
-"ASESOR COMERCIAL: FINANCIERO Y DE SEGUROS","Seguros Inbursa, S.A G...","Pachuca de Soto,, Hgo.","Sueldo no mostrado por la empresa",true,"Ventas","Ventas de campo","Bachillerato","Permanente","Tiempo completo","Híbrido","¡ÚNETE A NUESTRO EQUIPO COMO GESTOR FINANCIERO Y DE SEGUROS en Seguros Inbursa, S. ¡A Grupo Financiero Inbursa! Estamos comprometidos con nuestro personal, ofreciendo un ambiente de trabajo que fomenta el crecimiento económico y profesional de nuestros colaboradores.
 
 
 
+Presentar los principales hallazgos de Gobierno de datos de las iniciativas analíticas y de inteligencia artificial que sean explotadas en las diferentes plataformas.
+Ayudar a comprender las necesidades de información que hay en la compañía con foco en las actividades analíticas y de inteligencia artificial.
+Comprender los procesos de negocio para alinear y descubrir los dominios y subdominios de datos en la compañía de las iniciativas analíticas y de inteligencia artificial.
+Identificar a los data owner y data stewards de la compañía alineando las iniciativas de datos con las iniciativas analíticas y de inteligencia artificial.
+Garantizar en conjunto con data stewards, data owners, expertos funcionales la correcta creación y actualización de los procesos y políticas de datos y dominios de datos en la compañía con foco en las iniciativas y modelos analíticos
+Garantizar la correcta creación de los lineamientos de datos para las iniciativas analíticas y de inteligencia artificial
+Creación y entendimiento de los procesos de datos en la compañía en las plataformas analíticas y de inteligencia artificial
+Promover el uso, adopción y actualización de las herramientas de Gobierno de datos en la compañía.
+Alinear con los equipos de Seguridad, Legal, auditoria, Data Owners y Data Stewards las actividades de discovery, catalogación y clasificación de datos de las iniciativas analiticas y de AI
 
-Requisitos del puesto
 
 
 
 
-Experiencia avanzada en Ventas de Campo y como comisionista.
-Actitud emprendedora y enfoque en resultados.
-Excelente comunicación, pasión por las ventas y el servicio al cliente.
-Resiliencia ante retos y gusto por las ventas.
-Edad mínima: 25 años.
-Escolaridad: Bachillerato concluido.
 
 
+Requisitos:
 
 
 
 
+Titulación de las siguiente carreras o afines: Ingeniería / Licenciatura en Sistemas Computacionales, matermáticas, Actuario
++4 años en áreas o proyectos implementado programas en gobierno de datos en iniciativas analíticas y AI, One Lake, Data Lakes, BUS de datos, Python, LLMs.
+Conocimiento en herramientas de Gobierno de Datos: Informatica CDGC, Alation, Big ID, Purview, Unity Catalog
+Conocimiento en integración de Datos (SQL, Databricks, Data Factory)"
+"Docente para Diseño de videojuegos Campus Atizapán","La empresa es confidencial o no se encuentra disponible","","Sueldo no mostrado por la empresa",true,"Educación","Maestro - Docente - Profesor","Estudios Universitarios - titulado","Tiempo completo","Jornada completa","","Requerimientos
 
-Responsabilidades del puesto
+Educación mínima: Estudios Universitarios - titulado
 
+Diseño de videojuegos Si eres un experto en el diseño 3D o 4D, si has dirigido y producido cortometrajes de animación digital, y sabes cómo coordinar grupos de trabajo colaborativo utilizando tecnologías de vanguardia, entonces UNITEC te necesita.
 
 
 
-Brindar asesoría experta sobre productos y servicios financieros a clientes.
-Prospectar, cerrar ventas y realizar seguimiento a la cartera de clientes.
-Desarrollar habilidades comerciales y de liderazgo en el sector financiero.
 
+Aquí podrás compartir con nuestros alumnos/as de Animación y Arte Digital tu pasión por los efectos visuales digitales y la programación por computadora, enseñándoles a diseñar personajes y videojuegos impactantes.
 
 
 
 
+En UNITEC, buscamos profesionales talentosos con una visión compartida por el logro y la disposición de transmitir su experiencia para formar a las próximas generaciones.
 
 
-Ofrecemos.
 
 
+¡Invitamos a aquellos que buscan transformar vidas a sumarse a UNITEC como docentes y contribuir a la formación de futuros líderes en la industria de los videojuegos!
 
 
-Ingresos ilimitados: Comisiones atractivas, bonos trimestrales y premios adicionales.
-Prestaciones, sólo (IMSS e INFONAVIT).
-Capacitación especializada y formación continua en el sector financiero.
-Convenciones nacionales e internacionales con todos los gastos pagados.
-Ambiente flexible y dinámico para el desarrollo profesional y la creación de una cartera de clientes.
 
 
+Requisitos: Lic. en Diseño, programación o afín, título y cédula
 
 
 
 
+Te Ofrecemos:
 
-¿Estás listo para dar el siguiente paso en tu carrera? ¡Postúlate ahora y comienza a escribir tu historia de éxito con nosotros en Seguros Inbursa, S. ¡A Grupo Financiero Inbursa! Envía tu CV con fotografía al correo que aparece en la parte superior del anuncio. ¡Te esperamos para iniciar un desarrollo profesional y económico sin límites!"
+
+
+
+
+Pago por hora laborada, lo que se traduce en más horas, mejor remuneración
+
+
+Contratación por nómina
+
+
+Pagos quincenales.
+
+
+Prestaciones de ley (seguridad social, aguinaldo, vacaciones, etc.)
+
+
+Pago de utilidades
+
+
+Como docente UNITEC puedes obtener beca para ti, tus hijos/as y también para tu cónyuge. *aplican condiciones.
+
+
+Capacitación docente continua, para que puedas mejorar la efectividad de tu enseñanza dentro de la clase.
+
+
+Plan de desarrollo que te permitirá construir una trayectoria docente
+
+
+Horarios flexibles que se adaptan a tu calidad de vida.
+
+
+Descuentos empresariales
+
+
+
+
+
+Comienza por tomar la mejor decisión
+
+
+
+
+¡APLICA a nuestra vacante como Docente UNITEC!
+
+
+
+
+**En este centro de trabajo queda prohibida la solicitud de certificados médicos de no embarazo y de VIH como requisito para el ingreso, permanencia o ascenso en el empleo**
+
+Objetivo: Impartir clases a nivel Licenciatura contribuyendo al proceso de enseñanza, a fin de elevar la calidad
+educativa del alumnado, con apego a los programas académicos, la misión
+institucional, y una excelencia académica.
+
+Importante considerar los siguientes requisitos:
+
+Experiencia: mínima 5 años en campo laboral y 2 docencia
+
+Asignaturas disponibles a impartir
+
+-      Diseño de videojuegos
+
+       Diseño multidimensional
+
+-      Arte digital
+
+Escolaridad: Indispensable contar con título y cédula de DISEÑO DE ANIMACION Y ARTE DIGITAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Habilidades:
+Comunicación, plataformas Digitales para la educación como Unity, maya, adobe, creativo, manejo de
+diferentes herramientas didácticas, para la proyección del proceso de
+enseñanza-aprendizaje"
+"Public Relations Specialist","La empresa es confidencial o no se encuentra disponible","","$ 1 - $ 2 Mensual",true,"Servicios generales - Oficios - Seguridad","Otros oficios","Estudios Universitarios - titulado","Honorarios","Jornada completa","","Requerimientos
+
+Educación mínima: Estudios Universitarios - titulado
+About Human Quality:With over 29 years in the market, Human Quality is a leading company in the specialized services sector, offering recruitment, payrolling, headhunting, and a wide range of human resources solutions.
+
+We stand out for our core values: love, a solution-oriented mindset, unity, transparency and human connection.Location: Monterrey, Nuevo León. (Non-negotiable)Rol mission:Create a strategy to make the company the go-to expert in human capital. This involves working with the media and actively participating in industry events, associations, key organizations, business chambers and others.
+
+Position Requirements:Bachelor's degree in Communications, Public Relations, Marketing or a related field.
+Solid experience in corporate public relations, business chamber engagement and/or collaboration with organizations focused on business development.
+Previous participation in new business development.
+Experience representing companies before government authorities, business chambers, and public forums.
+Availability to attend in-person external events and travel as needed.
+Advanced English is a must.
+Key Responsibilities:Designs and implements external communication plans to enhance the visibility of the services offered by Human Quality's various business units, positioning the company as an industry leader and a strategic partner for clients in human capital matters.
+Builds and strengthens relationships with key stakeholders and influential figures within the target sectors of our business.
+Serves as the main liaison with media outlets, business chambers, and government entities, acting as the spokesperson on matters related to the organization.
+Prepares internal leaders and executives for interviews, speaking engagements and public events, ensuring that key messages and speeches consistently reflect the brand's identity and promise."

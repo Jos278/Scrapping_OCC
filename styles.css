@@ -1,84 +1,141 @@
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
+/* Fondo animado tipo blur */
 body {
-     background: linear-gradient(-45deg, #FF894F, #0F828C, #98ABEE, #EA5B6F);
+    background: linear-gradient(-45deg, #FF894F, #0F828C, #98ABEE, #EA5B6F);
     background-size: 400% 400%;
     animation: backgroundBlur 20s ease infinite;
     font-family: 'Segoe UI', sans-serif;
-    background-color: #f3f4f6;
+}
+
+@keyframes backgroundBlur {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+
+
+
+#searchInput::placeholder {
+    color: white;
+    opacity: 0.7;
+}
+
+#searchInput:focus::placeholder {
+    color: transparent;
+}
+
+#searchInput:focus::before {
+    content: '|';
+    animation: blink 1s infinite;
+    color: white;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Botón solo con ícono */
+#searchBtn {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(10px);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    padding: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    font-size: 22px;
 }
 
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+#searchBtn::before {
+    content: "🔍";
 }
 
-.card {
-  background-color: white;
-  width: 280px;
-  padding: 20px;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  text-align: center;
-  transition: transform 0.2s;
+/* Spinner personalizado */
+.loaderr {
+  width: calc(100px - 24px);
+  height: 50px;
+  position: relative;
+  animation: flippx 2s infinite linear;
+  margin: 20px;
 }
-
-.card:hover {
-  transform: translateY(-5px);
-}
-
-.avatar {
-  width: 80px;
-  height: 80px;
+.loaderr:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
-  margin-bottom: 15px;
+  background: #FFF;
+  transform-origin: -24px 50%;
+  animation: spin 1s infinite linear;
+}
+.loaderr:after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50% , -50%);
+  background: #fff;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
 }
 
-h2 {
-  margin: 10px 0 5px;
-  font-size: 20px;
-  font-weight: 600;
-  color: #222;
-  text-transform: capitalize;
+@keyframes flippx {
+  0%, 49% {
+    transform: scaleX(1);
+  }
+  50%, 100% {
+    transform: scaleX(-1);
+  }
+}
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+      
+.parrafo{
+  background-color: rgba(255, 255, 255, 0.356);
+  color: rgb(0, 0, 0);
+  text-align: center;
 }
 
-.role {
-  color: #888;
-  margin-bottom: 15px;
+
+/* Texto animado tipo fade */
+.fade-message {
+    opacity: 0;
+    transform: translateX(-30px);
+    animation: fadeIn 1s forwards;
 }
 
-.card p {
-  margin: 5px 0;
-  color: #444;
-  font-size: 14px;
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
 }
 
-.card i {
-  margin-right: 8px;
-  color: #555;
+#verVacantesBtn {
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    border-radius: 30px;
+    font-size: 1.1rem;
 }
 
-.social-icons {
-  margin-top: 15px;
-}
 
-.social-icons a {
-  margin: 0 10px;
-  font-size: 20px;
-  color: #0a66c2;
-  text-decoration: none;
-}
-
-.social-icons a:nth-child(2) {
-  color: #333;
+.estilo-boton-vacantes {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  border-radius: 30px;
+  font-size: 1.1rem;
 }
