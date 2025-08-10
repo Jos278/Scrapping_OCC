@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Vacantes encontradas</title>
+  <link rel="stylesheet" href="stylesVacantes.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 min-h-screen">
+  <div class="main-layout">
+
+    <!-- Barra lateral -->
+    <aside class="sidebar mt-20">
+      <div class="filters">
+        <button onclick="render('todas')">Todas</button>
+        <button onclick="render('mayor')">Mayor sueldo</button>
+        <button onclick="render('menor')">Menor sueldo</button>
+        <button onclick="abrirMapa()">🗺️ Ver en Mapa</button>
+        <button onclick="abrirCards()"> Acerca De </button>
+      </div>
+      <button onclick="goBack()" class="back-button">⤺</button>
+    </aside>
+
+    <!-- Contenido principal -->
+    <div class="content">
+      <h1>Parece que estas vacantes son para ti... 👀</h1>
+      <div id="vacantesContainer" class="flex flex-col gap-4"></div>
+    </div>
+
+  </div>
+
+  <script>
+    let todasVacantes = [];
+
+    async function getVacantes() {
+      const res = await fetch('/resultados.json');
+      const data = await res.json();
+      return data.filter(v => v.sueldo && parseFloat(v.sueldo.replace(/[^\d.]/g, '')) > 0);
+    }
+
+    function parseSueldo(sueldo) {
+      if (!sueldo) return 0;
+      const match = sueldo.replace(/,/g, '').match(/\d+/);
+      return match ? parseInt(match[0], 10) : 0;
+    }
+
+    function createCard(v) {
+      const modalidad = v.detalles?.["Espacio de trabajo"] || 'Sin modalidad';
+      const icon = modalidad.toLowerCase().includes('casa') ? '🏠' :
+                   modalidad.toLowerCase().includes('presencial') ? '🏢' : '📍';
+
+      return `
+        <div class="vacante-card" style="backdrop-filter: blur(12px); background: rgba(255, 255, 255, 0.15); border: none solid white; margin: 5px;">
+          <div class="text-lg font-bold">${v.empresa || 'Empresa no disponible'}</div>
+          <div class="text-md font-bold" style="color: #320A6B">${v.sueldo || 'Sueldo no disponible'}</div>
+          <div class="text-sm text-gray-800">${v.ubicacion || 'Ubicación no disponible'}</div>
+          <div class="text-sm">${icon} ${modalidad}</div>
+        </div>
+      `;
+    }
+
+    async function render(filtro = 'todas') {
+      const contenedor = document.getElementById('vacantesContainer');
+
+      if (todasVacantes.length === 0) {
+        todasVacantes = await getVacantes();
+      }
+
+      if (!todasVacantes.length) {
+        contenedor.innerHTML = '<div class="text-white">No hay vacantes con sueldo.</div>';
+        return;
+      }
+
+      let vacantes = [...todasVacantes];
+      vacantes.sort((a, b) => parseSueldo(b.sueldo) - parseSueldo(a.sueldo));
+
+      const n = getCantidad(vacantes.length);
+
+      if (filtro === 'mayor') {
+        vacantes = vacantes.slice(0, n);
+      } else if (filtro === 'menor') {
+        vacantes = vacantes.reverse().slice(0, n);
+      }
+
+      contenedor.innerHTML = vacantes.map(createCard).join('');
+    }
+
+    function getCantidad(total) {
+      if (total > 30) return 10;
+      if (total >= 20) return 8;
+      if (total >= 10) return 5;
+      return Math.min(3, Math.floor(total / 2));
+    }
+
+    function goBack() {
+      window.location.href = 'index.html';
+      setTimeout(() => location.reload(), 200);
+    }
+
+    function abrirMapa() {
+      window.open('mapa.html', '_blank');
+    }
+
+    function abrirCards() {
+      window.open('acercaDe.html','_blank');
+    }
+
+    render();
+  </script>
+</body>
+
+</html>
